@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T17:31:58.954310+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2025-10-23T18:30:01.105176+08:00",
+  "total_titles_processed": 1682,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 89,
+      "match_count": 92,
       "titles": [
         {
           "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
@@ -42,6 +42,17 @@
           "time_info": "[00时35分 ~ 06时22分]"
         },
         {
+          "title": "特朗普取消与普京会面，克里姆林宫回应",
+          "url": "https://news.ifeng.com/c/8ngMoyIhbIn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 18时30分]"
+        },
+        {
           "title": "中方回应特朗普称中美将达成贸易协议",
           "url": "https://www.toutiao.com/trending/7563496326190022665/",
           "source": "今日头条",
@@ -64,8 +75,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时22分 ~ 17时31分]"
+          "appearance_count": 12,
+          "time_info": "[06时22分 ~ 18时30分]"
         },
         {
           "title": "【早报】特朗普：取消与普京会面；公募基金业绩比较基准规则征求意见稿即将发布",
@@ -77,17 +88,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时00分 ~ 15时28分]"
-        },
-        {
-          "title": "特朗普取消与普京会面，克里姆林宫回应",
-          "url": "https://news.ifeng.com/c/8ngMoyIhbIn",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 17时31分]"
         },
         {
           "title": "特朗普称大陆不想进攻台湾 国台办回应",
@@ -130,6 +130,21 @@
           "time_info": "[11时11分 ~ 15时28分]"
         },
         {
+          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时00分 ~ 18时30分]"
+        },
+        {
           "title": "特朗普开始创造性破坏白宫",
           "url": "https://www.toutiao.com/trending/7563916723658244105/",
           "source": "今日头条",
@@ -140,11 +155,12 @@
             22,
             21,
             12,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时35分 ~ 17时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时35分 ~ 18时30分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -215,31 +231,18 @@
           "time_info": "[00时35分 ~ 06时22分]"
         },
         {
-          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时00分 ~ 17时31分]"
-        },
-        {
           "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
           "url": "https://wallstreetcn.com/articles/3757694",
           "source": "华尔街见闻",
           "ranks": [
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 17时31分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 18时30分]"
         },
         {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
@@ -254,6 +257,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时00分 ~ 15时28分]"
+        },
+        {
+          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1964624412641833840",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 18时30分]"
         },
         {
           "title": "特朗普称预计将与中国达成贸易协议，外交部回应",
@@ -394,19 +410,6 @@
           "time_info": "11时11分"
         },
         {
-          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1964624412641833840",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 17时31分]"
-        },
-        {
           "title": "特朗普称取消与普京会晤 美国国债总额首次超过38万亿美元 | 环球市场",
           "url": "https://www.cls.cn/detail/2177682",
           "source": "财联社热门",
@@ -430,6 +433,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 04时32分]"
+        },
+        {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 18时30分]"
         },
         {
           "title": "特朗普取消与普京会面",
@@ -544,15 +558,16 @@
           "time_info": "[10时00分 ~ 12时32分]"
         },
         {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
+          "title": "为何没人知晓特朗普家族如今赚多少钱",
+          "url": "https://www.toutiao.com/trending/7564312142908755510/",
+          "source": "今日头条",
           "ranks": [
-            7
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 17时31分]"
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 18时30分]"
         },
         {
           "title": "通用汽车（GM）股价周三冲高回落，纽约中午持平，暂报66.63美元。 福特汽车跌幅收窄至1.1%，暂报12.42美元。 美国总统特朗普称：“通用汽车的Barra和福特汽车的Bill Ford打电话给我，感谢我的关税。Barr在电话中感谢我对某些卡车加征的关税。”",
@@ -708,13 +723,35 @@
           "time_info": "01时24分"
         },
         {
+          "title": "民调：逾半数美国人认为特朗普动用执法打击政敌",
+          "url": "https://flash.jin10.com/detail/20251023180310570800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：将“稳步”推进海上风力发电的后续项目。 愿与G7及其他国家合作，共同探讨符合日本国家利益的必要举措。 特朗普试图改变全球秩序。 特朗普的行动导致世界可预测性下降。",
+          "url": "https://wallstreetcn.com/livenews/2992511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "俄乌和平进程受阻？特朗普最新表态：取消与普京布达佩斯会晤",
           "url": "https://www.cls.cn/detail/2177790",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -772,6 +809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-23）",
+          "url": "https://flash.jin10.com/detail/20251023175958645800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "特朗普宣布：取消与普京在布达佩斯的会面",
@@ -1016,17 +1064,6 @@
           "time_info": "06时22分"
         },
         {
-          "title": "为何没人知晓特朗普家族如今赚多少钱",
-          "url": "https://www.toutiao.com/trending/7564312142908755510/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
-        },
-        {
           "title": "特朗普对俄对乌态度一变再变",
           "url": "https://www.toutiao.com/trending/7563471019005116457/",
           "source": "今日头条",
@@ -1066,6 +1103,17 @@
       "match_count": 19,
       "titles": [
         {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时00分 ~ 18时30分]"
+        },
+        {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
           "url": "https://wallstreetcn.com/articles/3757563",
           "source": "华尔街见闻",
@@ -1075,17 +1123,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时35分 ~ 06时22分]"
-        },
-        {
-          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时00分 ~ 17时31分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1111,8 +1148,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时35分 ~ 17时31分]"
+          "appearance_count": 21,
+          "time_info": "[00时35分 ~ 18时30分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -1331,6 +1368,19 @@
           "time_info": "[00时35分 ~ 07时23分]"
         },
         {
+          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
+          "url": "https://www.cls.cn/detail/2177936",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 18时30分]"
+        },
+        {
           "title": "黄金价格为何突然大幅回调",
           "url": "https://www.toutiao.com/trending/7564185395232001575/",
           "source": "今日头条",
@@ -1354,19 +1404,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
-        },
-        {
-          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
-          "url": "https://www.cls.cn/detail/2177936",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 17时31分]"
         },
         {
           "title": "金价一夜跌50元顾客相中直接买走",
@@ -1459,6 +1496,20 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时00分 ~ 18时30分]"
+        },
+        {
           "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
           "url": "https://www.cls.cn/detail/2177879",
           "source": "财联社热门",
@@ -1471,20 +1522,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时32分 ~ 17时31分]"
-        },
-        {
-          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
-          "url": "https://wallstreetcn.com/articles/3757674",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时00分 ~ 17时31分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -1552,7 +1589,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
