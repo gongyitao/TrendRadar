@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T19:24:25.877097+08:00",
-  "total_titles_processed": 1688,
+  "generated_at": "2025-10-28T20:55:47.038919+08:00",
+  "total_titles_processed": 1813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 77,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -78,6 +78,21 @@
           "time_info": "[00时35分 ~ 07时25分]"
         },
         {
+          "title": "高市早苗会见特朗普 多次伸手笑容满面",
+          "url": "https://www.toutiao.com/trending/7565063392713575990/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            6,
+            22,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时20分 ~ 20时55分]"
+        },
+        {
           "title": "特朗普见高市早苗三句话不离安倍",
           "url": "https://www.toutiao.com/trending/7565133400080928262/",
           "source": "今日头条",
@@ -94,18 +109,16 @@
           "time_info": "[12时31分 ~ 18时31分]"
         },
         {
-          "title": "高市早苗会见特朗普 多次伸手笑容满面",
-          "url": "https://www.toutiao.com/trending/7565063392713575990/",
-          "source": "今日头条",
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
           "ranks": [
-            1,
-            6,
-            22,
-            25
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时20分 ~ 15时26分]"
+          "appearance_count": 6,
+          "time_info": "[17时30分 ~ 20时55分]"
         },
         {
           "title": "高市早苗给特朗普送礼 日网民炸锅",
@@ -114,11 +127,12 @@
           "ranks": [
             2,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时36分 ~ 19时24分]"
+          "appearance_count": 7,
+          "time_info": "[16时36分 ~ 20时55分]"
         },
         {
           "title": "特朗普自顾自检阅 高市早苗原地愣住",
@@ -196,20 +210,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
         {
-          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
-          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
-          "source": "凤凰网",
+          "title": "特朗普1分钟内两次无视高市早苗",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE1%E5%88%86%E9%92%9F%E5%86%85%E4%B8%A4%E6%AC%A1%E6%97%A0%E8%A7%86%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26lcate%3D5001%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26realpos%3D2%26pos%3D1%26c_type%3D31%26band_rank%3D2%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE1%25E5%2588%2586%25E9%2592%259F%25E5%2586%2585%25E4%25B8%25A4%25E6%25AC%25A1%25E6%2597%25A0%25E8%25A7%2586%25E9%25AB%2598%25E5%25B8%2582%25E6%2597%25A9%25E8%258B%2597%2523%26filter_type%3Drealtimehot%26display_time%3D1761655810%26pre_seqid%3D17616558108980346858406",
+          "source": "微博",
           "ranks": [
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时30分 ~ 19时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "美国官员：特朗普下周可能会见乌兹别克斯坦总统。",
+          "url": "https://wallstreetcn.com/livenews/2995155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "日本财务大臣片山皋月：在与日本首相高市早苗会晤时，美国总统特朗普表示“很高兴再次见到你，我们建立了非常良好的关系”。",
@@ -229,9 +254,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)盘前上涨7.6%，公司计划进军预测市场。",
+          "url": "https://flash.jin10.com/detail/20251028202850707800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "特朗普谈到重振美国造船业。",
@@ -240,7 +276,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -294,6 +330,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时20分 ~ 11时16分]"
+        },
+        {
+          "title": "特朗普和高市早苗登华盛顿号航母",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%99%BB%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%8F%B7%E8%88%AA%E6%AF%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时55分]"
         },
         {
           "title": "特朗普东京下榻酒店军犬检查车辆",
@@ -427,6 +475,17 @@
           "time_info": "[14时40分 ~ 14时41分]"
         },
         {
+          "title": "特朗普：非常反对突袭搜查韩国工厂",
+          "url": "https://www.toutiao.com/trending/7565763131436777526/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 20时55分]"
+        },
+        {
           "title": "特朗普到底薅了全世界多少钱",
           "url": "https://www.toutiao.com/trending/7565875834884460086/",
           "source": "今日头条",
@@ -474,6 +533,17 @@
           "time_info": "[18时30分 ~ 18时31分]"
         },
         {
+          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
+          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "据日本共同社：日本首相高市早苗周二在与美国总统特朗普的首次会晤中表示，为纪念美国建国250周年，日本将于明年向华盛顿捐赠250棵樱花树。",
           "url": "https://flash.jin10.com/detail/20251028124115417800",
           "source": "金十数据",
@@ -502,7 +572,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -518,13 +588,24 @@
           "time_info": "10时20分"
         },
         {
+          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
+          "url": "https://news.ifeng.com/c/8np198dmCFI",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "美国总统特朗普在讲话中谈及重振美国造船业。",
           "url": "https://flash.jin10.com/detail/20251028190823052800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -606,17 +687,6 @@
           "time_info": "16时36分"
         },
         {
-          "title": "特朗普：非常反对突袭搜查韩国工厂",
-          "url": "https://www.toutiao.com/trending/7565763131436777526/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
           "title": "美国总统特朗普：如有需要，将向美国城市派遣“超出国民警卫队”的力量。",
           "url": "https://flash.jin10.com/detail/20251028160658291800",
           "source": "金十数据",
@@ -634,7 +704,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -661,24 +731,13 @@
           "time_info": "00时35分"
         },
         {
-          "title": "特朗普和高市早苗登华盛顿号航母",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%99%BB%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%8F%B7%E8%88%AA%E6%AF%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
-        },
-        {
           "title": "美国总统特朗普：想要感谢软银。",
           "url": "https://flash.jin10.com/detail/20251028185808672800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -705,13 +764,24 @@
           "time_info": "12时31分"
         },
         {
+          "title": "特朗普：将降低牛肉价格 或许牧场主的境况太好了",
+          "url": "https://wallstreetcn.com/livenews/2995130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "美国总统特朗普：日本新首相表现非常出色。",
           "url": "https://flash.jin10.com/detail/20251028185434094800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -722,7 +792,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -744,7 +814,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -755,7 +825,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -766,7 +836,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -793,6 +863,17 @@
           "time_info": "16时36分"
         },
         {
+          "title": "如何看待特朗普高市早苗同乘海军一号",
+          "url": "https://www.toutiao.com/trending/7566223667332386345/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "加拿大安大略省省长：美国总统特朗普正在找借口不达成协议。",
           "url": "https://flash.jin10.com/detail/20251028001555308800",
           "source": "金十数据",
@@ -813,12 +894,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "特朗普：美联储主席鲍威尔不是无能就是坏",
+          "url": "https://flash.jin10.com/detail/20251028200644703800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
@@ -826,11 +918,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时25分 ~ 19时24分]"
+          "appearance_count": 15,
+          "time_info": "[07时25分 ~ 20时55分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -953,6 +1046,17 @@
           "time_info": "16时36分"
         },
         {
+          "title": "特朗普媒体科技集团美股盘前涨逾11%，公司宣布进军预测市场业务。",
+          "url": "https://wallstreetcn.com/livenews/2995148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "新东方第一财季调整后每ADS收益1.61美元，预估1.65美元。 第一财季经营利润3.108亿美元，预估3.008亿美元。 第一财季净营收15.2亿美元，预估15.1亿美元。 第一财季资本支出5,540万美元。 新东方美股盘前涨0.68%。",
           "url": "https://wallstreetcn.com/livenews/2995018",
           "source": "华尔街见闻-快讯",
@@ -984,6 +1088,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "美股核电股盘前上涨，Cameco涨近16%",
+          "url": "https://wallstreetcn.com/livenews/2995128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
@@ -1001,8 +1116,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时31分 ~ 19时24分]"
+          "appearance_count": 12,
+          "time_info": "[12时31分 ~ 20时55分]"
         },
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -1044,11 +1159,12 @@
           "url": "https://wallstreetcn.com/articles/3758026",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时30分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[18时30分 ~ 20时55分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -1165,7 +1281,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1331,7 +1447,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         }
@@ -1339,7 +1455,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股盘初三大指数续创历史新高，高通暴涨20%，美债收益率上行，金银再度跳水",
@@ -1374,6 +1490,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时25分]"
+        },
+        {
+          "title": "摩根大通美债客户多头占比降至去年12月以来新低",
+          "url": "https://wallstreetcn.com/livenews/2995121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
