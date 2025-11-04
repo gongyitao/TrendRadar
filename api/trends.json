@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T14:41:10.292517+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2025-11-04T15:28:54.719451+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -65,19 +65,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 14时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 15时28分]"
         },
         {
-          "title": "特朗普：美核武可毁灭世界150次",
-          "url": "https://news.ifeng.com/c/8nzrNVXNPwO",
-          "source": "凤凰网",
+          "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
+          "url": "https://www.cls.cn/detail/2190068",
+          "source": "财联社热门",
           "ranks": [
-            1
+            7,
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时45分 ~ 14时41分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 15时28分]"
         },
         {
           "title": "声称尼日利亚纵容暴力，特朗普威胁动武",
@@ -92,19 +94,6 @@
           "time_info": "[11时45分 ~ 14时41分]"
         },
         {
-          "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
-          "url": "https://www.cls.cn/detail/2190068",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 14时41分]"
-        },
-        {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
           "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
           "source": "澎湃新闻",
@@ -116,8 +105,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 14时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 15时28分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -164,15 +153,28 @@
           "time_info": "[00时34分 ~ 07时39分]"
         },
         {
+          "title": "特朗普：美核武可毁灭世界150次",
+          "url": "https://news.ifeng.com/c/8nzrNVXNPwO",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时45分 ~ 15时28分]"
+        },
+        {
           "title": "赵长鹏威胁美国国安却被赦免？特朗普：他谁啊",
           "url": "https://news.ifeng.com/c/8o0F27J4SeK",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 14时41分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 15时28分]"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
@@ -284,6 +286,18 @@
           "time_info": "[11时45分 ~ 13时29分]"
         },
         {
+          "title": "道富集团CEO称特朗普移民政策“反增长”",
+          "url": "https://wallstreetcn.com/livenews/2999031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时28分]"
+        },
+        {
           "title": "加拿大央行行长Tiff Macklem：美国民众在极大程度承担了（总统特朗普挑起的）关税成本。",
           "url": "https://wallstreetcn.com/livenews/2998714",
           "source": "华尔街见闻-快讯",
@@ -356,15 +370,26 @@
           "time_info": "[04时31分 ~ 05时26分]"
         },
         {
-          "title": "道富集团CEO称特朗普移民政策“反增长”",
-          "url": "https://wallstreetcn.com/livenews/2999031",
+          "title": "特朗普威胁对尼日利亚动武，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/2999066",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时41分"
+          "time_info": "15时28分"
+        },
+        {
+          "title": "BBC又翻车？被曝“篡改”特朗普演讲稿，制造“煽动骚乱”假象",
+          "url": "https://news.ifeng.com/c/8o0Gc0LQ9TP",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         },
         {
           "title": "特朗普改口不去全球关税合法性听证会",
@@ -446,8 +471,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 14时41分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 15时28分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -458,8 +483,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时38分 ~ 14时41分]"
+          "appearance_count": 10,
+          "time_info": "[07时38分 ~ 15时28分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -562,7 +587,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -573,7 +598,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -595,7 +620,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -688,11 +713,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 14时41分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 15时28分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
@@ -772,41 +798,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
-          "url": "https://wallstreetcn.com/articles/3758580",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时26分 ~ 14时41分]"
-        },
-        {
-          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
-          "url": "https://www.cls.cn/detail/2190043",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 14时41分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "30年期美债收益率涨约3.7个基点",
@@ -831,6 +824,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "荷兰国际：美债收益率曲线仍过于平坦",
+          "url": "https://flash.jin10.com/detail/20251104144102291800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
+          "url": "https://wallstreetcn.com/articles/3758580",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[05时26分 ~ 15时28分]"
+        },
+        {
+          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
+          "url": "https://www.cls.cn/detail/2190043",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 15时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金一夜“变贵”！深圳水贝金价每克上涨60元，多家金店加价前暂停出货",
+          "url": "https://wallstreetcn.com/livenews/2998697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时37分 ~ 03时23分]"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）上海金午盘价为913.54元/克，较国际金价(912.74元/克)，高0.8元/克",
+          "url": "https://flash.jin10.com/detail/20251104150233781800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
@@ -882,24 +949,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金一夜“变贵”！深圳水贝金价每克上涨60元，多家金店加价前暂停出货",
-          "url": "https://wallstreetcn.com/livenews/2998697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时23分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -914,8 +963,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 14时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时34分 ~ 15时28分]"
         }
       ]
     }
