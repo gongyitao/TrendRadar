@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T13:28:02.437652+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2025-11-07T14:40:37.648366+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -49,8 +49,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 13时28分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 14时40分]"
         },
         {
           "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
@@ -60,8 +60,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 13时28分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 14时40分]"
         },
         {
           "title": "男子在特朗普身边晕倒 发布会中断",
@@ -77,6 +77,31 @@
           "time_info": "[10时03分 ~ 13时28分]"
         },
         {
+          "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
+          "url": "https://www.cls.cn/detail/2193664",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 14时40分]"
+        },
+        {
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时48分 ~ 14时40分]"
+        },
+        {
           "title": "联邦法官下令特朗普政府全额发放11月食品援助金",
           "url": "https://flash.jin10.com/detail/20251107071312828800",
           "source": "金十数据",
@@ -86,6 +111,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "特朗普官宣降价后药企高管当场晕倒",
+          "url": "https://www.toutiao.com/trending/7569788096678608905/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "特朗普将与匈牙利总理欧尔班会面，讨论俄罗斯石油及经济合作问题。",
+          "url": "https://flash.jin10.com/detail/20251107140048691800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
         },
         {
           "title": "禁止特朗普绕过国会对委动武议案被否",
@@ -116,30 +163,6 @@
           "ranks": [
             14,
             10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 13时28分]"
-        },
-        {
-          "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
-          "url": "https://www.cls.cn/detail/2193664",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 13时28分]"
-        },
-        {
-          "title": "特朗普：美国人正为关税付出代价",
-          "url": "https://www.toutiao.com/trending/7569021464603901971/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -561,6 +584,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "特朗普痛骂佩洛西是“邪恶女人”",
+          "url": "https://www.toutiao.com/trending/7569040586016620587/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
           "title": "美联储威廉姆斯、巴尔将于十分钟后出席活动；美国总统特朗普将于十分钟后就减肥药物发表声明。",
           "url": "https://flash.jin10.com/detail/20251106235000000800",
           "source": "金十数据",
@@ -683,11 +717,12 @@
           "ranks": [
             11,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时26分 ~ 13时28分]"
+          "appearance_count": 11,
+          "time_info": "[06时26分 ~ 14时40分]"
         },
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -712,8 +747,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 13时28分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 14时40分]"
         },
         {
           "title": "特斯拉股价美股盘后转跌，此前一度上涨3.4%。",
@@ -866,8 +901,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 13时28分]"
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 14时40分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -882,8 +917,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 13时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 14时40分]"
         },
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -894,8 +929,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 13时28分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 14时40分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -904,11 +939,12 @@
           "ranks": [
             13,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 13时28分]"
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 14时40分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -1000,6 +1036,17 @@
           "time_info": "[00时37分 ~ 07时25分]"
         },
         {
+          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
+          "url": "https://wallstreetcn.com/articles/3758806",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时03分 ~ 14时40分]"
+        },
+        {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
           "url": "https://wallstreetcn.com/articles/3758806",
           "source": "华尔街见闻",
@@ -1010,17 +1057,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 06时27分]"
-        },
-        {
-          "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
-          "url": "https://wallstreetcn.com/articles/3758806",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时03分 ~ 13时28分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
@@ -1082,19 +1118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时26分 ~ 13时28分]"
-        },
-        {
-          "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
-          "url": "https://flash.jin10.com/detail/20251107130634244800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "appearance_count": 11,
+          "time_info": "[06时26分 ~ 14时40分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -1121,6 +1146,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时22分 ~ 05时24分]"
+        },
+        {
+          "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
+          "url": "https://flash.jin10.com/detail/20251107130634244800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时40分]"
         },
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
@@ -1159,11 +1196,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 13时28分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 14时40分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
