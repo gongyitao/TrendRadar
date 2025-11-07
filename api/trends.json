@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-07T22:27:34.193828+08:00",
-  "total_titles_processed": 1955,
+  "generated_at": "2025-11-07T23:28:42.621420+08:00",
+  "total_titles_processed": 2044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 80,
       "titles": [
+        {
+          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
+          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时28分 ~ 23时28分]"
+        },
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
           "url": "https://wallstreetcn.com/articles/3758755",
@@ -17,18 +29,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 07时25分]"
-        },
-        {
-          "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
-          "url": "https://news.ifeng.com/c/8o5IuV0EIi3",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时28分 ~ 22时27分]"
         },
         {
           "title": "特朗普为什么总是针对南非？",
@@ -140,7 +140,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -206,7 +206,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -243,6 +243,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时48分 ~ 13时28分]"
+        },
+        {
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时23分 ~ 23时28分]"
         },
         {
           "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
@@ -365,18 +378,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时40分 ~ 03时22分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 22时27分]"
         },
         {
           "title": "特朗普会否成为“跛脚总统”",
@@ -640,13 +641,24 @@
           "time_info": "15时28分"
         },
         {
+          "title": "特朗普真想对委内瑞拉开战吗？",
+          "url": "https://v.ifeng.com/c/8o61H5snkCE",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "特朗普媒体科技集团(DJT.O)第三季度净亏损5480万美元。",
           "url": "https://flash.jin10.com/detail/20251107220224855800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -668,7 +680,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -701,7 +713,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -772,6 +784,17 @@
           "time_info": "07时25分"
         },
         {
+          "title": "CNH Industrial NV跌11%，恐创2020年以来最差单日表现，特朗普关税冲击到该公司业绩展望。 迪尔农机/约翰迪尔（DE）跌3.7%。",
+          "url": "https://wallstreetcn.com/livenews/3001287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "美联储威廉姆斯、巴尔将于十分钟后出席活动；美国总统特朗普将于十分钟后就减肥药物发表声明。",
           "url": "https://flash.jin10.com/detail/20251106235000000800",
           "source": "金十数据",
@@ -789,7 +812,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -803,6 +826,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "特朗普媒体科技三季度净销售97.29万美元，上年同期101万美元。 三季度金融资产大约31亿美元。 连续两个季度实现正运营现金流。 预计将继续推进并购与收购策略。 正进军迅猛扩张的预测市场。",
+          "url": "https://wallstreetcn.com/livenews/3001276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "美国总统特朗普：美国今年的投资可能超过21万亿美元。",
@@ -907,7 +941,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
@@ -986,6 +1020,18 @@
           "time_info": "[05时24分 ~ 06时27分]"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3001278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时28分]"
+        },
+        {
           "title": "金十图示：2025年11月06日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251107050522071800",
           "source": "金十数据",
@@ -1021,15 +1067,15 @@
           "time_info": "06时27分"
         },
         {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3001278",
-          "source": "华尔街见闻-快讯",
+          "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
+          "url": "https://wallstreetcn.com/articles/3758914",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "23时28分"
         },
         {
           "title": "英特尔(INTC.O)美股盘前上涨2.4%，此前马斯克表示值得与该公司进行讨论。",
@@ -1043,6 +1089,17 @@
           "time_info": "17时29分"
         },
         {
+          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2194710",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "特斯拉(TSLA.O)美股盘前涨1.8%，此前股东批准特斯拉CEO马斯克的1万亿美元薪酬计划。",
           "url": "https://flash.jin10.com/detail/20251107170234164800",
           "source": "金十数据",
@@ -1052,6 +1109,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "行业ETF美股盘初普跌，半导体ETF跌1.3%",
+          "url": "https://wallstreetcn.com/livenews/3001288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "特斯拉股东批准马斯克的1万亿美元薪酬方案，超过75%的股东批准。 股东批准重新选举三名董事会成员。 董事会将评估xAI投资。 特斯拉美股盘后涨1.8%。",
@@ -1071,7 +1139,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1107,6 +1175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251107224624350800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "金十图示：2025年11月06日（周四）美股热门股票行情一览（美股盘中）",
@@ -1182,8 +1261,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时03分 ~ 22时27分]"
+          "appearance_count": 18,
+          "time_info": "[10时03分 ~ 23时28分]"
         },
         {
           "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
@@ -1303,7 +1382,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币重回跌势",
@@ -1313,8 +1392,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时03分 ~ 22时27分]"
+          "appearance_count": 18,
+          "time_info": "[10时03分 ~ 23时28分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1350,6 +1429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
+          "url": "https://wallstreetcn.com/livenews/3001303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "标普500指数跌幅扩大至1%，可选消费板块跌2%，科技板块跌1.6%，电信板块跌1%，能源板块涨1.2%。 纳指跌超1.5%，半导体指数跌2.3%。 特朗普政府关门期间，民间机构提供的美国就业数据引发美债价格上涨。",
@@ -1542,8 +1632,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美元指数DXY短线走低十余点，现报99.41。",
+          "url": "https://flash.jin10.com/detail/20251107230621759800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
         {
           "title": "美元指数下跌0.5%",
           "url": "https://wallstreetcn.com/livenews/3000729",
@@ -1566,6 +1667,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗总统：愿在国际法框架内谈判，但不会接受羞辱",
+          "url": "https://wallstreetcn.com/livenews/3001291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "伊朗总统：愿在国际法框架内谈判 但不会接受羞辱",
+          "url": "https://flash.jin10.com/detail/20251107224246724800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         }
       ]
     }
