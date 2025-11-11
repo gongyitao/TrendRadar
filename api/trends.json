@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T12:33:35.720109+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2025-11-11T13:28:19.351217+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,18 @@
           "time_info": "[00时36分 ~ 07时25分]"
         },
         {
+          "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
+          "url": "https://news.ifeng.com/c/8oBhZI0ZGcZ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 13时28分]"
+        },
+        {
           "title": "特朗普的“贸易战”收到了什么结果",
           "url": "https://www.toutiao.com/trending/7571084710177148454/",
           "source": "今日头条",
@@ -57,18 +69,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时36分 ~ 05时27分]"
-        },
-        {
-          "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
-          "url": "https://news.ifeng.com/c/8oBhZI0ZGcZ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 12时33分]"
         },
         {
           "title": "白宫经济顾问哈塞特被问及50年期抵押贷款方案，称：我支持美国总统特朗普的想法。 白宫将举行一系列会议。",
@@ -93,6 +93,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 07时25分]"
+        },
+        {
+          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
+          "url": "https://wallstreetcn.com/articles/3759093",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时28分]"
         },
         {
           "title": "BBC主席就特朗普纪录片争议道歉，特朗普称或索赔至少10亿美元",
@@ -141,18 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时28分]"
-        },
-        {
-          "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
-          "url": "https://wallstreetcn.com/articles/3759093",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 12时33分]"
         },
         {
           "title": "牛弹琴：特朗普宣布一个大消息",
@@ -603,8 +603,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时36分 ~ 12时33分]"
+          "appearance_count": 18,
+          "time_info": "[00时36分 ~ 13时28分]"
+        },
+        {
+          "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
+          "url": "https://www.cls.cn/detail/2196579",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时05分 ~ 13时28分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -621,17 +632,6 @@
           "time_info": "[00时36分 ~ 07时25分]"
         },
         {
-          "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
-          "url": "https://www.cls.cn/detail/2196579",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时05分 ~ 12时33分]"
-        },
-        {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
           "url": "https://www.cls.cn/detail/2196552",
           "source": "财联社热门",
@@ -641,8 +641,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 12时33分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 13时28分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -675,8 +675,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 12时33分]"
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 13时28分]"
         },
         {
           "title": "美股 AI 科技股遭惨烈一周，英伟达等八巨头市值缩水 8000 亿美元，会否重蹈互联网泡沫的走势？",
@@ -858,6 +858,18 @@
           "time_info": "05时27分"
         },
         {
+          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
+          "url": "https://flash.jin10.com/detail/20251111115436400800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时28分]"
+        },
+        {
           "title": "谷歌：Gemini for TV将在未来几周内开始向Google TV流媒体设备推送。",
           "url": "https://flash.jin10.com/detail/20251111010942677800",
           "source": "金十数据",
@@ -880,24 +892,13 @@
           "time_info": "07时25分"
         },
         {
-          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
-          "url": "https://flash.jin10.com/detail/20251111115436400800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
           "title": "韩国相关部门表示，韩国将待谷歌(GOOG.O)提交补充文件后作出最终决定。",
           "url": "https://flash.jin10.com/detail/20251111115423827800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
         },
