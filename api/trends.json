@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T22:28:34.377395+08:00",
-  "total_titles_processed": 1725,
+  "generated_at": "2025-11-19T23:29:35.771612+08:00",
+  "total_titles_processed": 1802,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时04分 ~ 22时28分]"
+          "appearance_count": 19,
+          "time_info": "[10时04分 ~ 23时29分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -64,6 +64,17 @@
           "time_info": "[01时26分 ~ 07时26分]"
         },
         {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时30分 ~ 23时29分]"
+        },
+        {
           "title": "特朗普与沙特王储握手露出尴尬表情",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B2%99%E7%89%B9%E7%8E%8B%E5%82%A8%E6%8F%A1%E6%89%8B%E9%9C%B2%E5%87%BA%E5%B0%B4%E5%B0%AC%E8%A1%A8%E6%83%85",
           "source": "百度热搜",
@@ -89,17 +100,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[16时36分 ~ 20时57分]"
-        },
-        {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时30分 ~ 22时28分]"
         },
         {
           "title": "特朗普：已确定下一任美联储主席人选",
@@ -158,6 +158,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
+        },
+        {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时24分 ~ 23时29分]"
         },
         {
           "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
@@ -232,17 +244,6 @@
           "time_info": "[02时40分 ~ 03时22分]"
         },
         {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 22时28分]"
-        },
-        {
           "title": "美国总统特朗普：我对普京感到有点惊讶。",
           "url": "https://flash.jin10.com/detail/20251119020840985800",
           "source": "金十数据",
@@ -312,6 +313,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时40分 ~ 03时22分]"
+        },
+        {
+          "title": "特朗普政府调整零售销售、耐用品等多个经济数据的发布日期",
+          "url": "https://wallstreetcn.com/livenews/3007265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时29分]"
         },
         {
           "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
@@ -416,6 +429,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "白宫国家经济委员会主任凯文·哈塞特：（美国总统特朗普挑起的）关税对美国通胀的最终影响还有待观察。 未来的数据修正可能会表明生产力更加强劲。 美国85%的经济正经历“大幅的”生产力转变。 生产力繁荣是“空前绝后”的。 失业率“略微高于”均衡水平。",
+          "url": "https://wallstreetcn.com/livenews/3007285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "特朗普怒怼ABC女记者",
           "url": "https://www.toutiao.com/trending/7574268540435136563/",
           "source": "今日头条",
@@ -447,17 +471,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "特朗普政府调整零售销售、耐用品等多个经济数据的发布日期",
-          "url": "https://wallstreetcn.com/livenews/3007265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
         },
         {
           "title": "美国国会山通过措施要求公布爱泼斯坦文件，送交特朗普签字",
@@ -590,6 +603,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "特朗普缺席，美国警告南非不要在峰会上发表G20声明",
+          "url": "https://wallstreetcn.com/livenews/3007268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "特朗普：沙特王储对卡舒吉案一无所知",
@@ -738,7 +762,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
@@ -850,6 +874,18 @@
           "time_info": "[11时48分 ~ 12时32分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3007260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时29分]"
+        },
+        {
           "title": "花旗将携程美股目标价由85美元上调至86美元，预计携程出境业务营收仍能维持中双位数增长。",
           "url": "https://wallstreetcn.com/livenews/3006896",
           "source": "华尔街见闻-快讯",
@@ -884,15 +920,26 @@
           "time_info": "06时28分"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3007260",
+          "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2205477",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，全球航空业ETF涨1.32%，区域银行ETF涨0.61%，银行业ETF涨0.54%，半导体ETF涨0.39%，网络股指数ETF则跌0.15%，能源业ETF跌1.88%。",
+          "url": "https://wallstreetcn.com/livenews/3007277",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时28分"
+          "time_info": "23时29分"
         },
         {
           "title": "美股科技股遭抛售 英伟达跌近3%",
@@ -961,6 +1008,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "金十图示：2025年11月19日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251119225522376800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "金十图示：2025年11月18日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251119050517257800",
           "source": "金十数据",
@@ -997,7 +1055,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -1006,11 +1064,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时04分 ~ 22时28分]"
+          "appearance_count": 19,
+          "time_info": "[10时04分 ~ 23时29分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -1024,8 +1083,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时48分 ~ 22时28分]"
+          "appearance_count": 18,
+          "time_info": "[11时48分 ~ 23时29分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -1123,11 +1182,12 @@
           "url": "https://www.zhihu.com/question/1974273046480184125",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时28分]"
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时29分]"
         },
         {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
@@ -1209,13 +1269,35 @@
           "time_info": "00时38分"
         },
         {
+          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "谷歌A涨约6%创历史新高，纳指涨超1%，半导体指数涨超2%",
+          "url": "https://wallstreetcn.com/livenews/3007282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "市场消息：OpenText深化与谷歌的合作，加速人工智能创新、数据安全及主权云解决方案的推进。",
           "url": "https://flash.jin10.com/detail/20251119220402180800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -1246,8 +1328,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时04分 ~ 22时28分]"
+          "appearance_count": 17,
+          "time_info": "[10时04分 ~ 23时29分]"
         },
         {
           "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
@@ -1440,6 +1522,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金涨至4130美元/盎司上方，日内涨1.57％。 标普500指数涨超1%，道指涨193点涨幅0.42%，纳指涨1.7%，半导体指数涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3007293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     }
