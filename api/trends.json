@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T17:31:11.513785+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2025-11-19T18:32:19.560630+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -26,11 +26,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时04分 ~ 17时31分]"
+          "appearance_count": 14,
+          "time_info": "[10时04分 ~ 18时32分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -45,8 +46,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时48分 ~ 17时31分]"
+          "appearance_count": 13,
+          "time_info": "[11时48分 ~ 18时32分]"
         },
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -98,6 +99,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 18时32分]"
         },
         {
           "title": "美国财长贝森特：可以肯定地说，我不会成为美联储主席。 特朗普将在感恩节后会见三位美联储主席候选人。 特朗普可能在圣诞节前宣布下一任美联储主席。",
@@ -218,16 +232,15 @@
           "time_info": "[02时40分 ~ 03时22分]"
         },
         {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时36分 ~ 17时31分]"
+          "time_info": "[17时30分 ~ 18时32分]"
         },
         {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
@@ -277,17 +290,6 @@
           "time_info": "[02时40分 ~ 03时22分]"
         },
         {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
-        },
-        {
           "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
           "url": "https://flash.jin10.com/detail/20251119020428074800",
           "source": "金十数据",
@@ -324,6 +326,17 @@
           "time_info": "[02时40分 ~ 03时22分]"
         },
         {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁",
+          "url": "https://www.toutiao.com/trending/7574328835857023012/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
           "title": "特朗普为何在爱泼斯坦案上罕见低头",
           "url": "https://www.toutiao.com/trending/7574277845409598995/",
           "source": "今日头条",
@@ -341,7 +354,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -735,11 +748,12 @@
           "url": "https://www.cls.cn/detail/2204885",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时30分 ~ 17时31分]"
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 18时32分]"
         },
         {
           "title": "估值担忧打击美股科技股，标普500指数连续第四个交易日下跌，纳指收跌1.2%，多日来现卖出信号。美国积压数据陆续公布，市场等待有关美联储下一步行动的信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -901,8 +915,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时04分 ~ 17时31分]"
+          "appearance_count": 14,
+          "time_info": "[10时04分 ~ 18时32分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -928,8 +942,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时48分 ~ 17时31分]"
+          "appearance_count": 13,
+          "time_info": "[11时48分 ~ 18时32分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -943,11 +957,12 @@
             16,
             7,
             20,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时04分 ~ 17时31分]"
+          "appearance_count": 14,
+          "time_info": "[10时04分 ~ 18时32分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -960,6 +975,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时04分 ~ 13时29分]"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            24,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时39分 ~ 18时32分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -986,20 +1016,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时40分 ~ 07时26分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时39分 ~ 17时31分]"
         },
         {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
@@ -1157,6 +1173,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中方再抛5亿美债传递出怎样的信号",
+          "url": "https://www.toutiao.com/trending/7574330336398544425/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "英国在9月份减持近400亿美元美债 日本增持",
+          "url": "https://flash.jin10.com/detail/20251119062808557800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
@@ -1167,7 +1211,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -1197,8 +1241,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时04分 ~ 17时31分]"
+          "appearance_count": 12,
+          "time_info": "[10时04分 ~ 18时32分]"
         }
       ]
     },
@@ -1216,23 +1260,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国在9月份减持近400亿美元美债 日本增持",
-          "url": "https://flash.jin10.com/detail/20251119062808557800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
         }
       ]
     }
