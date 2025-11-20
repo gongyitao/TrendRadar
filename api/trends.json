@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T12:31:41.713434+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2025-11-20T13:28:25.690983+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
@@ -93,17 +93,6 @@
           "time_info": "01时25分"
         },
         {
-          "title": "共和党议员对特朗普“关税红利”计划持保留态度",
-          "url": "https://flash.jin10.com/detail/20251120120628966800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
           "title": "特朗普将于11月21日会见纽约候任市长马姆达尼。",
           "url": "https://wallstreetcn.com/livenews/3007555",
           "source": "华尔街见闻-快讯",
@@ -139,6 +128,18 @@
           "time_info": "[03时23分 ~ 05时22分]"
         },
         {
+          "title": "共和党议员对特朗普“关税红利”计划持保留态度",
+          "url": "https://flash.jin10.com/detail/20251120120628966800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时28分]"
+        },
+        {
           "title": "美国总统特朗普：我曾考虑过让财长贝森特进入美联储，但他不愿意。",
           "url": "https://wallstreetcn.com/livenews/3007346",
           "source": "华尔街见闻-快讯",
@@ -163,6 +164,20 @@
           "time_info": "[01时25分 ~ 02时40分]"
         },
         {
+          "title": "特朗普批准公布爱泼斯坦案档案",
+          "url": "https://www.toutiao.com/trending/7574614385700851210/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            10,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 13时28分]"
+        },
+        {
           "title": "特朗普：应起诉鲍威尔",
           "url": "https://news.ifeng.com/c/8oQBc00t0BE",
           "source": "凤凰网",
@@ -175,17 +190,16 @@
           "time_info": "[10时02分 ~ 12时31分]"
         },
         {
-          "title": "特朗普批准公布爱泼斯坦案档案",
-          "url": "https://www.toutiao.com/trending/7574614385700851210/",
-          "source": "今日头条",
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            10,
-            17
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时02分 ~ 12时31分]"
+          "time_info": "[11时47分 ~ 13时28分]"
         },
         {
           "title": "美国总统特朗普：美国与沙特在LNG基础设施领域合作。",
@@ -209,8 +223,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时28分]"
         },
         {
           "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
@@ -222,17 +236,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时25分]"
-        },
-        {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时31分]"
         },
         {
           "title": "美国总统特朗普：马斯克，我支持你。",
@@ -630,7 +633,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
@@ -652,19 +655,6 @@
       "match_count": 15,
       "titles": [
         {
-          "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2205477",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时36分 ~ 10时02分]"
-        },
-        {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
           "url": "https://wallstreetcn.com/articles/3759700",
           "source": "华尔街见闻",
@@ -673,8 +663,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 12时31分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 13时28分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -687,8 +677,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时27分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[06时27分 ~ 13时28分]"
+        },
+        {
+          "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2205477",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时36分 ~ 10时02分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -865,8 +868,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 12时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 13时28分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -880,8 +883,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时36分 ~ 12时31分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 13时28分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -894,8 +897,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时40分 ~ 12时31分]"
+          "appearance_count": 13,
+          "time_info": "[02时40分 ~ 13时28分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
@@ -915,11 +918,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 12时31分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 13时28分]"
         },
         {
           "title": "王自如深度体验谷歌AI",
