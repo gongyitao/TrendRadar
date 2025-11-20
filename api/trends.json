@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T19:24:39.406332+08:00",
-  "total_titles_processed": 1648,
+  "generated_at": "2025-11-20T20:56:53.986193+08:00",
+  "total_titles_processed": 1775,
   "failed_sources": [],
   "trends": [
     {
@@ -21,17 +21,6 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时36分 ~ 07时26分]"
-        },
-        {
           "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
           "url": "https://wallstreetcn.com/articles/3759743",
           "source": "华尔街见闻",
@@ -41,8 +30,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时47分 ~ 19时24分]"
+          "appearance_count": 10,
+          "time_info": "[11时47分 ~ 20时56分]"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 07时26分]"
         },
         {
           "title": "C罗马斯克现身白宫 出席特朗普晚宴",
@@ -538,7 +538,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -711,7 +711,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -771,8 +771,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 19时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 20时56分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -788,6 +788,17 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[02时40分 ~ 18时30分]"
+        },
+        {
+          "title": "Gemini3有哪些新鲜玩法",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时56分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
@@ -933,8 +944,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时25分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[07时25分 ~ 20时56分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -1213,6 +1224,17 @@
           "time_info": "[18时30分 ~ 19时24分]"
         },
         {
+          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时30分 ~ 20时56分]"
+        },
+        {
           "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
@@ -1224,17 +1246,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时27分 ~ 17时29分]"
-        },
-        {
-          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 19时24分]"
         },
         {
           "title": "卖空者浑水创始人Carson Block：现在喜欢做多股票。 看涨加拿大初级金矿公司Snowline Gold Corp.（SGD）。 相比黄金价格，该公司参与的潜在项目的价值被低估了。",
@@ -1407,7 +1418,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1418,7 +1429,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         }
