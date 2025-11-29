@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T14:38:53.661008+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2025-11-29T15:25:47.249828+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
@@ -200,8 +200,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时25分]"
         },
         {
           "title": "乌克兰代表团将赴美会见特朗普心腹和女婿，讨论和平计划",
@@ -232,7 +232,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -284,8 +284,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时25分 ~ 14时38分]"
+          "appearance_count": 11,
+          "time_info": "[01时25分 ~ 15时25分]"
         },
         {
           "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
@@ -327,6 +327,19 @@
           "time_info": "[02时37分 ~ 07时25分]"
         },
         {
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 15时25分]"
+        },
+        {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251129031455925800",
           "source": "金十数据",
@@ -352,19 +365,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时30分 ~ 12时32分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 14时38分]"
         },
         {
           "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
@@ -552,8 +552,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[10时02分 ~ 15时25分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -564,8 +564,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时25分]"
         }
       ]
     },
@@ -578,11 +578,12 @@
           "url": "https://www.douyin.com/hot/2321048",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时25分]"
         },
         {
           "title": "金价",
