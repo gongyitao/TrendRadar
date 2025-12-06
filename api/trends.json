@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T22:24:50.891287+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2025-12-06T23:26:07.254521+08:00",
+  "total_titles_processed": 1578,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时25分 ~ 22时24分]"
+          "appearance_count": 12,
+          "time_info": "[15时25分 ~ 23时26分]"
         },
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -29,11 +29,24 @@
             22,
             15,
             16,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时02分 ~ 23时26分]"
+        },
+        {
+          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979961793922167510",
+          "source": "知乎",
+          "ranks": [
+            16,
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时02分 ~ 18时28分]"
+          "appearance_count": 10,
+          "time_info": "[17时27分 ~ 23时26分]"
         },
         {
           "title": "特朗普获得“国际足联和平奖”",
@@ -49,18 +62,6 @@
           "time_info": "[17时27分 ~ 22时24分]"
         },
         {
-          "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979961793922167510",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时27分 ~ 22时24分]"
-        },
-        {
           "title": "特朗普将废“出生公民权”，美最高法院决定审理行政令是否合宪",
           "url": "https://news.ifeng.com/c/8oro24DPoQo",
           "source": "凤凰网",
@@ -70,6 +71,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时53分 ~ 21时33分]"
+        },
+        {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时22分 ~ 23时26分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆本次会谈持续了45分钟。 三方将继续致力于（翻新）美国墨西哥加拿大贸易协议（USMCA）。",
@@ -184,17 +196,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时23分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时22分 ~ 22时24分]"
         },
         {
           "title": "美国总统特朗普抵达2026年世界杯抽签仪式现场，称这是“重要一天”。",
@@ -401,6 +402,17 @@
           "time_info": "[02时38分 ~ 04时32分]"
         },
         {
+          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
+          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时24分 ~ 23时26分]"
+        },
+        {
           "title": "美国参议院银行委员会民主党成员们向总统特朗普的共和党阵营施压。 他们要求联邦住房金融局(FHFA)局长Bill Pulte在2026年1月（底）之前出席听证会。",
           "url": "https://wallstreetcn.com/livenews/3016079",
           "source": "华尔街见闻-快讯",
@@ -546,17 +558,6 @@
           "time_info": "10时02分"
         },
         {
-          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
-          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
-        },
-        {
           "title": "哈塞特：美联储是时候谨慎降息了，未与特朗普讨论过主席相关话题",
           "url": "https://wallstreetcn.com/articles/3760815",
           "source": "华尔街见闻",
@@ -626,8 +627,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时02分 ~ 22时24分]"
+          "appearance_count": 17,
+          "time_info": "[10时02分 ~ 23时26分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -657,8 +658,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时26分 ~ 22时24分]"
+          "appearance_count": 18,
+          "time_info": "[07时26分 ~ 23时26分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
@@ -819,8 +820,23 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
+          "url": "https://wallstreetcn.com/articles/3760832",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时27分 ~ 23时26分]"
+        },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
           "url": "https://www.zhihu.com/question/1979223676378447995",
@@ -835,20 +851,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[11时46分 ~ 21时33分]"
-        },
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时27分 ~ 22时24分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -908,6 +910,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时26分]"
+        },
+        {
+          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
+          "url": "https://www.zhihu.com/question/1979858915077404344",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时26分]"
         }
       ]
     },
@@ -929,8 +942,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时46分 ~ 22时24分]"
+          "appearance_count": 16,
+          "time_info": "[11时46分 ~ 23时26分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -1095,11 +1108,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 22时24分]"
+          "appearance_count": 6,
+          "time_info": "[20时53分 ~ 23时26分]"
         }
       ]
     },
