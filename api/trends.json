@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T18:26:47.678141+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2025-12-07T19:21:59.705675+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
@@ -86,17 +86,6 @@
           "time_info": "[13时27分 ~ 17时27分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
-          "url": "https://flash.jin10.com/detail/20251207175156547800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
           "title": "美国发生特大诈骗案 特朗普怒批",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
           "source": "百度热搜",
@@ -112,6 +101,42 @@
           "time_info": "[12时01分 ~ 15时25分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
+          "url": "https://flash.jin10.com/detail/20251207175156547800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时21分]"
+        },
+        {
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时21分]"
+        },
+        {
+          "title": "特朗普威胁封锁委领空 马杜罗咋办",
+          "url": "https://www.toutiao.com/trending/7581027611489340991/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时21分]"
+        },
+        {
           "title": "年终总结特朗普重返白宫",
           "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB",
           "source": "bilibili 热搜",
@@ -121,17 +146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
-        },
-        {
-          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         },
         {
           "title": "特朗普称其主持典礼会比吉米做得更好",
@@ -154,17 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
-        },
-        {
-          "title": "特朗普威胁封锁委领空 马杜罗咋办",
-          "url": "https://www.toutiao.com/trending/7581027611489340991/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
         }
       ]
     },
@@ -257,6 +260,20 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 19时21分]"
+        },
+        {
           "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
           "url": "https://wallstreetcn.com/articles/3760830",
           "source": "华尔街见闻",
@@ -267,19 +284,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时32分 ~ 04时29分]"
-        },
-        {
-          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 18时26分]"
         }
       ]
     },
@@ -313,11 +317,12 @@
           "url": "https://flash.jin10.com/detail/20251207170920912800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 19时21分]"
         }
       ]
     }
