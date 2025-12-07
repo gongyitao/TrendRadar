@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:33:42.645336+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2025-12-07T17:27:01.640146+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,27 @@
             4,
             10,
             14,
-            21
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时41分 ~ 17时27分]"
+        },
+        {
+          "title": "特朗普签署行政令调查外资企业食品反竞争行为",
+          "url": "https://flash.jin10.com/detail/20251207124750348800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            11,
+            18,
+            22
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时41分 ~ 16时33分]"
+          "time_info": "[13时27分 ~ 17时27分]"
         },
         {
           "title": "美国发生特大诈骗案 特朗普怒批",
@@ -83,20 +99,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时01分 ~ 15时25分]"
-        },
-        {
-          "title": "特朗普签署行政令调查外资企业食品反竞争行为",
-          "url": "https://flash.jin10.com/detail/20251207124750348800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 16时33分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -242,8 +244,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时33分]"
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 17时27分]"
         }
       ]
     },
