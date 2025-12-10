@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T10:10:46.746364+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2025-12-10T11:59:57.059398+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -38,11 +38,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 10时10分]"
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 11时59分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -98,6 +99,17 @@
           "time_info": "[00时37分 ~ 07时28分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 11时59分]"
+        },
+        {
           "title": "采访中特朗普突然发飙怒斥记者",
           "url": "https://www.baidu.com/s?wd=%E9%87%87%E8%AE%BF%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E5%8F%91%E9%A3%99%E6%80%92%E6%96%A5%E8%AE%B0%E8%80%85",
           "source": "百度热搜",
@@ -111,17 +123,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时37分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
         },
         {
           "title": "特朗普政府宣布终止拜登时代的学生贷款偿还计划",
@@ -141,7 +142,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -175,7 +176,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -316,7 +317,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -338,7 +339,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -374,6 +375,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "79岁特朗普回应年龄质疑 称认知能力测试“全优”通过",
+          "url": "https://flash.jin10.com/detail/20251210111006441800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）将加速补充发布因特朗普政府关门事件而造成的持仓周报（COT）发布。",
@@ -464,6 +476,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "特朗普再度抨击鲍威尔：他不喜欢我",
+          "url": "https://www.toutiao.com/trending/7582002774414622726/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普政府停摆事件对数据有太多的影响。 在正常情况下，政府关门会造成信心崩塌。 总统特朗普会陈述经济的实情。",
           "url": "https://wallstreetcn.com/livenews/3017769",
           "source": "华尔街见闻-快讯",
@@ -505,6 +528,19 @@
           "time_info": "[00时37分 ~ 04时28分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
+          "url": "https://www.cls.cn/detail/2224722",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 11时59分]"
+        },
+        {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251210050514464800",
           "source": "金十数据",
@@ -514,18 +550,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
-          "url": "https://www.cls.cn/detail/2224722",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 10时10分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（12月9日），美国科技股七巨头（Magnificent 7）指数涨0.11%，报208.56点。 “超大”市值科技股指数涨0.37%，报406.51点，低开后美股早盘持续收复失地并转涨，日内大部分时间高位窄幅震荡。",
@@ -758,6 +782,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 11时59分]"
+        },
+        {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
           "url": "https://wallstreetcn.com/livenews/3017850",
           "source": "华尔街见闻-快讯",
@@ -779,17 +815,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
-        },
-        {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
         },
         {
           "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
@@ -837,9 +862,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 11时59分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -914,6 +939,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 06时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时59分"
         }
       ]
     }
