@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T17:28:18.981969+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2025-12-14T18:28:53.216380+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
@@ -243,6 +243,17 @@
           "time_info": "[00时33分 ~ 03时22分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
           "title": "特朗普或因说漏嘴致间谍曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%9B%A0%E8%AF%B4%E6%BC%8F%E5%98%B4%E8%87%B4%E9%97%B4%E8%B0%8D%E6%9B%9D%E5%85%89%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -287,17 +298,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 13时28分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "特朗普的和平梦要在东南亚碎了吗",
@@ -357,7 +357,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -368,7 +368,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -379,7 +379,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         }
@@ -442,8 +442,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 17时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时33分 ~ 18时28分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -487,11 +487,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 17时28分]"
+          "appearance_count": 6,
+          "time_info": "[13时28分 ~ 18时28分]"
         }
       ]
     }
