@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T18:28:53.216380+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2025-12-14T19:23:24.143628+08:00",
+  "total_titles_processed": 1169,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -219,6 +219,17 @@
           "time_info": "[04时29分 ~ 07时26分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
           "url": "https://flash.jin10.com/detail/20251214101831272800",
           "source": "金十数据",
@@ -298,6 +309,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 13时28分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-14）",
+          "url": "https://flash.jin10.com/detail/20251214181038164800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "特朗普的和平梦要在东南亚碎了吗",
@@ -491,8 +513,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时28分 ~ 18时28分]"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 19时23分]"
         }
       ]
     }
