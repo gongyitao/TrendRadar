@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T11:53:11.553393+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2025-12-20T12:34:53.281931+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -123,6 +123,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/articles/3761733",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 12时34分]"
+        },
+        {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
           "url": "https://wallstreetcn.com/articles/3761652",
           "source": "华尔街见闻",
@@ -170,17 +181,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 05时27分]"
-        },
-        {
-          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
-          "url": "https://wallstreetcn.com/articles/3761733",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 11时53分]"
         },
         {
           "title": "据美联社：美国总统特朗普讲话已被推迟。",
@@ -280,6 +280,19 @@
           "time_info": "[02时40分 ~ 04时32分]"
         },
         {
+          "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
+          "url": "https://wallstreetcn.com/livenews/3024204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时34分]"
+        },
+        {
           "title": "特朗普下令暂停“绿卡抽签”",
           "url": "https://www.toutiao.com/trending/7584652634205585450/",
           "source": "今日头条",
@@ -316,6 +329,18 @@
           "time_info": "[02时40分 ~ 03时23分]"
         },
         {
+          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3024224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时34分]"
+        },
+        {
           "title": "美国总统特朗普：政府工作人员将继续精简。 4.5%的失业率是“出色的数字”。",
           "url": "https://wallstreetcn.com/livenews/3024134",
           "source": "华尔街见闻-快讯",
@@ -328,18 +353,6 @@
           "time_info": "[04时32分 ~ 05时27分]"
         },
         {
-          "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
-          "url": "https://wallstreetcn.com/livenews/3024204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 11时53分]"
-        },
-        {
           "title": "特朗普政府为何不断施压美联储降息",
           "url": "https://www.toutiao.com/trending/7585493264636055094/",
           "source": "今日头条",
@@ -349,17 +362,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时52分 ~ 11时53分]"
-        },
-        {
-          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3024224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
         },
         {
           "title": "九家制药商与特朗普签署价格协议，以避免关税。 其中包括罗氏、Merck、百时美施贵宝、葛兰素史克、诺华、吉利德科学、安进、赛诺菲。 协议内容与之前和辉瑞、阿斯利康的类似。 艾伯维、强生、再生元制药还没有与特朗普宣布协议。",
@@ -428,6 +430,17 @@
           "time_info": "10时05分"
         },
         {
+          "title": "美国肯尼迪中心更名「特朗普 - 肯尼迪中心」，此举会对美国政治和文化产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1985346277517595512",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        },
+        {
           "title": "特朗普：将召集保险公司开会讨论降价问题",
           "url": "https://wallstreetcn.com/livenews/3024144",
           "source": "华尔街见闻-快讯",
@@ -486,7 +499,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -502,6 +515,18 @@
           "time_info": "[00时37分 ~ 06时28分]"
         },
         {
+          "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
+          "url": "https://wallstreetcn.com/articles/3761704",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 12时34分]"
+        },
+        {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
           "url": "https://wallstreetcn.com/articles/3761680",
           "source": "华尔街见闻",
@@ -514,28 +539,17 @@
           "time_info": "[00时37分 ~ 07时26分]"
         },
         {
-          "title": "“三巫日”科技股撑美股指两连阳，日元重挫1.4%，银铜齐创新高",
-          "url": "https://wallstreetcn.com/articles/3761704",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 11时53分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
           "url": "https://www.cls.cn/detail/2235346",
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 11时53分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 12时34分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -562,6 +576,18 @@
           "time_info": "[06时28分 ~ 07时26分]"
         },
         {
+          "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
+          "url": "https://wallstreetcn.com/livenews/3024223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时34分]"
+        },
+        {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
           "url": "https://wallstreetcn.com/livenews/3024062",
           "source": "华尔街见闻-快讯",
@@ -574,15 +600,15 @@
           "time_info": "[00时37分 ~ 01时25分]"
         },
         {
-          "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
-          "url": "https://wallstreetcn.com/livenews/3024223",
-          "source": "华尔街见闻-快讯",
+          "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
+          "url": "https://www.cls.cn/detail/2235373",
+          "source": "财联社热门",
           "ranks": [
-            8
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "12时34分"
         },
         {
           "title": "美股收盘：三大股指收涨 英伟达涨近4%",
@@ -624,6 +650,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
+          "url": "https://flash.jin10.com/detail/20251220105539232800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时34分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
           "url": "https://wallstreetcn.com/livenews/3024168",
           "source": "华尔街见闻-快讯",
@@ -634,17 +672,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时26分]"
-        },
-        {
-          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
-          "url": "https://flash.jin10.com/detail/20251220105539232800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时53分"
         },
         {
           "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
@@ -689,8 +716,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时28分 ~ 11时53分]"
+          "appearance_count": 7,
+          "time_info": "[06时28分 ~ 12时34分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
@@ -698,11 +725,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 11时53分]"
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 12时34分]"
         }
       ]
     },
@@ -726,6 +754,17 @@
           "time_info": "[02时40分 ~ 07时26分]"
         },
         {
+          "title": "伊朗为何不饱和攻击机场，让以战机无法起飞？",
+          "url": "https://www.zhihu.com/question/1918243705258751137",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 12时34分]"
+        },
+        {
           "title": "以色列暗杀伊朗核专家细节曝光",
           "url": "https://news.ifeng.com/c/8pDtj9kdFzQ",
           "source": "凤凰网",
@@ -735,17 +774,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时28分 ~ 10时05分]"
-        },
-        {
-          "title": "伊朗为何不饱和攻击机场，让以战机无法起飞？",
-          "url": "https://www.zhihu.com/question/1918243705258751137",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时04分 ~ 11时53分]"
         }
       ]
     },
