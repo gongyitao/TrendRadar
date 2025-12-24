@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T20:58:22.845140+08:00",
-  "total_titles_processed": 1677,
+  "generated_at": "2025-12-24T21:39:15.122697+08:00",
+  "total_titles_processed": 1753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -21,6 +21,18 @@
           "time_info": "[00时37分 ~ 07时27分]"
         },
         {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时32分 ~ 21时39分]"
+        },
+        {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
           "url": "https://wallstreetcn.com/articles/3761946",
           "source": "华尔街见闻",
@@ -31,8 +43,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时01分 ~ 20时58分]"
+          "appearance_count": 13,
+          "time_info": "[12时01分 ~ 21时39分]"
         },
         {
           "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
@@ -92,8 +104,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时37分 ~ 20时58分]"
+          "appearance_count": 27,
+          "time_info": "[00时37分 ~ 21时39分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -156,18 +168,6 @@
           "time_info": "[00时37分 ~ 05时27分]"
         },
         {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时32分 ~ 20时58分]"
-        },
-        {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
           "url": "https://www.cls.cn/detail/2238272",
           "source": "财联社热门",
@@ -218,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 21时39分]"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -342,17 +353,6 @@
           "time_info": "[10时10分 ~ 12时02分]"
         },
         {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 20时58分]"
-        },
-        {
           "title": "特朗普：和我持不同意见的人将永远无法成为美联储主席",
           "url": "https://wallstreetcn.com/livenews/3025716",
           "source": "华尔街见闻-快讯",
@@ -471,6 +471,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时24分]"
+        },
+        {
+          "title": "评论员：特朗普级战舰可能造不出来",
+          "url": "https://www.toutiao.com/trending/7587325146696781348/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
         },
         {
           "title": "“特朗普”级战列舰有哪些问题",
@@ -597,7 +608,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
@@ -636,6 +647,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时31分 ~ 12时02分]"
+        },
+        {
+          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3026240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-24）",
+          "url": "https://flash.jin10.com/detail/20251224213043071800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "耐克美股盘前涨超2%，苹果首席执行官蒂姆·库克于12月22日购入价值295万美元的耐克股票。",
@@ -736,6 +769,18 @@
           "time_info": "[06时28分 ~ 07时27分]"
         },
         {
+          "title": "英特尔美股盘前跌幅扩大至4%，消息称英伟达测试了英特尔的18A工艺，但已暂缓推进。",
+          "url": "https://wallstreetcn.com/livenews/3026207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时58分 ~ 21时39分]"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 标普500创收盘新高",
           "url": "https://flash.jin10.com/detail/20251224050116960800",
           "source": "金十数据",
@@ -746,17 +791,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时27分 ~ 06时28分]"
-        },
-        {
-          "title": "英特尔美股盘前跌幅扩大至4%，消息称英伟达测试了英特尔的18A工艺，但已暂缓推进。",
-          "url": "https://wallstreetcn.com/livenews/3026207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时58分"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股盘中）",
@@ -1029,8 +1063,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时10分 ~ 20时58分]"
+          "appearance_count": 15,
+          "time_info": "[10时10分 ~ 21时39分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
