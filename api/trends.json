@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T12:06:56.047249+08:00",
-  "total_titles_processed": 1031,
+  "generated_at": "2026-01-09T13:34:46.910143+08:00",
+  "total_titles_processed": 1137,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 96,
       "titles": [
         {
           "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
@@ -163,6 +163,44 @@
           "time_info": "00时41分"
         },
         {
+          "title": "特朗普宣称自己不需要国际法",
+          "url": "https://wallstreetcn.com/livenews/3033777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 13时34分]"
+        },
+        {
+          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
+          "url": "https://www.zhihu.com/question/1992163357625643469",
+          "source": "知乎",
+          "ranks": [
+            18,
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 13时34分]"
+        },
+        {
           "title": "美国联邦住房金融局局长普尔特：（就特朗普指示购买2000亿美元的抵押贷款债券）我们正在着手处理。",
           "url": "https://flash.jin10.com/detail/20260109055617117800",
           "source": "金十数据",
@@ -294,32 +332,6 @@
           "time_info": "[05时31分 ~ 06时31分]"
         },
         {
-          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 12时06分]"
-        },
-        {
-          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
-          "url": "https://www.zhihu.com/question/1992163357625643469",
-          "source": "知乎",
-          "ranks": [
-            18,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 12时06分]"
-        },
-        {
           "title": "特朗普退群“弃子”都有哪些",
           "url": "https://www.toutiao.com/trending/7592986570223799834/",
           "source": "今日头条",
@@ -339,8 +351,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时34分]"
         },
         {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
@@ -348,11 +360,59 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时34分]"
+        },
+        {
+          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
+          "url": "https://www.cls.cn/detail/2252393",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时34分]"
+        },
+        {
+          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时34分]"
+        },
+        {
+          "title": "特朗普放话“我不需要国际法”",
+          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
+          "source": "凤凰网",
+          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时06分]"
+          "time_info": "[12时06分 ~ 13时34分]"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时34分]"
         },
         {
           "title": "美国总统特朗普暗示，无意赦免（被前总统拜登收监的）原加密货币交易所FTX创始人Sam Bankman-Fried（SBF）。（纽约时报）",
@@ -391,6 +451,18 @@
           "time_info": "[06时31分 ~ 07时26分]"
         },
         {
+          "title": "特朗普称不担心美俄《新削减战略武器条约》即将到期",
+          "url": "https://wallstreetcn.com/livenews/3033738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时34分]"
+        },
+        {
           "title": "美国总统特朗普：现在，我正特别关注住房市场。已指示我的代表购买2000亿美元的抵押贷款债券。",
           "url": "https://flash.jin10.com/detail/20260109052917631800",
           "source": "金十数据",
@@ -401,18 +473,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
-          "url": "https://www.cls.cn/detail/2252393",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时06分]"
         },
         {
           "title": "美国总统特朗普与国会联手推翻美国前总统拜登时代的明尼苏达州采矿禁令，助力安托法加斯塔(Antofagasta)的双金属项目。",
@@ -475,16 +535,15 @@
           "time_info": "[02时40分 ~ 03时27分]"
         },
         {
-          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
-          "source": "澎湃新闻",
+          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
+          "url": "https://www.cls.cn/detail/2252516",
+          "source": "财联社热门",
           "ranks": [
-            14,
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时06分]"
+          "time_info": "[12时06分 ~ 13时34分]"
         },
         {
           "title": "美国总统特朗普：古巴有麻烦。",
@@ -523,6 +582,18 @@
           "time_info": "[06时31分 ~ 07时26分]"
         },
         {
+          "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342597",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时34分]"
+        },
+        {
           "title": "当被问及美国民众何时才能收到特朗普承诺从关税收入中拨出的2000美元支票，特朗普表示，发放这些款项无需国会批准。当被问及具体时间表时，他回答说：“我想大概在年底左右。”",
           "url": "https://flash.jin10.com/detail/20260109032840133800",
           "source": "金十数据",
@@ -533,17 +604,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时31分]"
-        },
-        {
-          "title": "特朗普放话“我不需要国际法”",
-          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
         },
         {
           "title": "美国联邦住房金融局局长Pulte：房利美和房地美都有关于处理特朗普住房命令的工具。",
@@ -557,17 +617,6 @@
           "time_info": "00时41分"
         },
         {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
           "title": "美国副总统万斯告诉欧洲领导人：要认真对待特朗普。",
           "url": "https://wallstreetcn.com/livenews/3033516",
           "source": "华尔街见闻-快讯",
@@ -577,17 +626,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
-        },
-        {
-          "title": "特朗普称不担心美俄《新削减战略武器条约》即将到期",
-          "url": "https://wallstreetcn.com/livenews/3033738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
         },
         {
           "title": "美国参议院投票阻止特朗普未来对委内瑞拉发动军事打击",
@@ -667,15 +705,15 @@
           "time_info": "02时40分"
         },
         {
-          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
-          "url": "https://www.cls.cn/detail/2252516",
-          "source": "财联社热门",
+          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
+          "source": "澎湃新闻",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "13时34分"
         },
         {
           "title": "美国总统特朗普将于十分钟后出席政策会议。",
@@ -706,7 +744,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -777,15 +815,15 @@
           "time_info": "03时27分"
         },
         {
-          "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342597",
-          "source": "澎湃新闻",
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "13时34分"
         },
         {
           "title": "美国总统特朗普：伊朗做得并不好。 如果伊朗暴乱份子死亡，将打击伊朗。",
@@ -827,7 +865,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -860,7 +898,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -871,7 +909,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -904,7 +942,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -948,7 +986,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -970,7 +1008,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -1003,7 +1041,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -1025,7 +1063,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -1036,7 +1074,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -1047,7 +1085,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -1077,7 +1115,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "媒体称伊朗抗议席卷全国一半省份，至少 36 人死亡，一旦伊朗失控谁是背后赢家？谁失利？",
@@ -1104,6 +1142,17 @@
           "time_info": "[10时22分 ~ 12时06分]"
         },
         {
+          "title": "伊朗采取极端措施了",
+          "url": "https://news.ifeng.com/c/8plZSSGoG34",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "伊朗外长：已为任何可能发生的情况做好战争准备",
           "url": "https://wallstreetcn.com/livenews/3033451",
           "source": "华尔街见闻-快讯",
@@ -1114,6 +1163,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时41分 ~ 01时35分]"
+        },
+        {
+          "title": "国服玩家爆料:伊朗暴乱士兵揭竿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348885&amp;topic_name=%E5%9B%BD%E6%9C%8D%E7%8E%A9%E5%AE%B6%E7%88%86%E6%96%99%3A%E4%BC%8A%E6%9C%97%E6%9A%B4%E4%B9%B1%E5%A3%AB%E5%85%B5%E6%8F%AD%E7%AB%BF",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时34分]"
         },
         {
           "title": "伊朗大范围断网",
@@ -1161,17 +1222,6 @@
           "time_info": "01时35分"
         },
         {
-          "title": "国服玩家爆料:伊朗暴乱士兵揭竿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348885&amp;topic_name=%E5%9B%BD%E6%9C%8D%E7%8E%A9%E5%AE%B6%E7%88%86%E6%96%99%3A%E4%BC%8A%E6%9C%97%E6%9A%B4%E4%B9%B1%E5%A3%AB%E5%85%B5%E6%8F%AD%E7%AB%BF",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
           "title": "伊朗大范围断网",
           "url": "https://www.douyin.com/hot/2361572",
           "source": "抖音",
@@ -1200,7 +1250,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -1277,8 +1327,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时25分 ~ 12时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 13时34分]"
         },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -1288,8 +1338,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时34分]"
         },
         {
           "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -1474,7 +1524,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -1507,11 +1557,23 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 12时06分]"
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 13时34分]"
+        },
+        {
+          "title": "黄金成全球最大储备资产，30年来首次超越美债！",
+          "url": "https://wallstreetcn.com/articles/3762855",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
