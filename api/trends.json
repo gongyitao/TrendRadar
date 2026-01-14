@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T19:29:33.278336+08:00",
-  "total_titles_processed": 1746,
+  "generated_at": "2026-01-14T21:04:22.258211+08:00",
+  "total_titles_processed": 1875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 102,
+      "match_count": 106,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -74,8 +74,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时14分 ~ 19时29分]"
+          "appearance_count": 10,
+          "time_info": "[12时14分 ~ 21时04分]"
         },
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -83,11 +83,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 19时29分]"
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 21时04分]"
         },
         {
           "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
@@ -171,6 +172,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "伊朗无视特朗普警告 暗示将迅速审判并处决抗议者",
+          "url": "https://flash.jin10.com/detail/20260114204912894800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时41分 ~ 21时04分]"
         },
         {
           "title": "美国国会山领导人特朗普的信用卡利率上限设想表示怀疑",
@@ -317,19 +343,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时28分 ~ 04时35分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时41分 ~ 19时29分]"
         },
         {
           "title": "中方回应“特朗普称不需要国际法”",
@@ -577,7 +590,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -753,7 +766,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -934,6 +947,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "金十整理：若关税被判违法，特朗普还能找到哪些“合法”替代方案？",
+          "url": "https://flash.jin10.com/detail/20260114203055700800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "美国总统特朗普：如果我们在关税诉讼中败诉，我们会想办法的。",
           "url": "https://flash.jin10.com/detail/20260114032319867800",
           "source": "金十数据",
@@ -1055,6 +1079,17 @@
           "time_info": "04时35分"
         },
         {
+          "title": "特朗普喊话最高法院：在重大裁决前请先看我们史无前例的经济上成功",
+          "url": "https://flash.jin10.com/detail/20260114201722365800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "特朗普：不同意摩根大通CEO关于美联储独立性的观点",
           "url": "https://wallstreetcn.com/livenews/3036430",
           "source": "华尔街见闻-快讯",
@@ -1149,7 +1184,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1163,6 +1198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "美国总统特朗普：美国出于国家安全需要格陵兰岛。 格陵兰岛对“金穹”导弹防御系统至关重要。 北约应当牵头以便美国取得格陵兰。 如果格陵兰在美国手中，北约将强大得多。",
+          "url": "https://wallstreetcn.com/livenews/3037002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美国总统特朗普：将在底特律谈论经济。",
@@ -1179,7 +1225,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1254,11 +1300,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 19时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 21时04分]"
         },
         {
           "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
@@ -1283,6 +1330,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时41分 ~ 17时37分]"
+        },
+        {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://news.ifeng.com/c/8pufl7S6EV4",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美媒：海湾国家游说美国别对伊朗动武",
@@ -1313,9 +1371,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
+        },
+        {
+          "title": "印度驻伊朗大使馆发布声明：敦促所有印度公民离开伊朗",
+          "url": "https://wallstreetcn.com/livenews/3037042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美军机沿伊朗边界飞行",
@@ -1324,7 +1393,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1335,7 +1404,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1472,6 +1541,17 @@
           "time_info": "[00时43分 ~ 01时35分]"
         },
         {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%9C%BA%E6%B2%BF%E4%BC%8A%E6%9C%97%E8%BE%B9%E7%95%8C%E9%A3%9E%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "伊朗革命卫队航空航天司令穆萨维：德黑兰已进入最高戒备状态，随时准备应对任何袭击。",
           "url": "https://flash.jin10.com/detail/20260114182028036800",
           "source": "金十数据",
@@ -1481,6 +1561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://www.douyin.com/hot/2367771",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美国人权活动组织HRANA：伊朗抗议活动的经核实死亡人数已上升至2571人。",
@@ -1665,7 +1756,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1676,7 +1767,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时29分"
         },
@@ -1750,7 +1841,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1760,8 +1851,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时26分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[10时26分 ~ 21时04分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -1883,6 +1974,17 @@
           "time_info": "17时37分"
         },
         {
+          "title": "携程(TCOM.O)美股盘前跌幅扩大至13.3%。",
+          "url": "https://flash.jin10.com/detail/20260114202836391800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260114013126429800",
           "source": "金十数据",
@@ -1914,6 +2016,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "美国银行：第四季度净利息收入157.5亿美元，市场预期为154.8亿美元。 第四季度每股收益0.98美元。 第四季度净利息收益率2.08%，市场预期为2.04%。 第四季度投资银行收入16.7亿美元，市场预期为16.6亿美元。 第四季度债务承销收入8.1亿美元，市场预期为8.64亿美元。 第四季度股权承销收入2.97亿美元，市场预期为3.01亿美元。 美国银行美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3037009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     },
@@ -2083,7 +2196,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
@@ -2116,6 +2229,17 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时42分 ~ 15时34分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1994233409871050526",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
