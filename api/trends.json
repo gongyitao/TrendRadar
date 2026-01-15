@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T15:34:09.857415+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2026-01-15T16:42:02.702347+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时41分 ~ 04时32分]"
+        },
+        {
+          "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
+          "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时34分 ~ 16时42分]"
         },
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -33,15 +45,30 @@
           "time_info": "[00时41分 ~ 10时21分]"
         },
         {
-          "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
-          "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
-          "source": "凤凰网",
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时34分 ~ 15时34分]"
+          "appearance_count": 10,
+          "time_info": "[10时21分 ~ 16时42分]"
+        },
+        {
+          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
+          "url": "https://www.cls.cn/detail/2258223",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时09分 ~ 16时42分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -53,18 +80,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时31分 ~ 07时26分]"
-        },
-        {
-          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
-          "url": "https://wallstreetcn.com/articles/3763310",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时21分 ~ 15时34分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -79,18 +94,15 @@
           "time_info": "[10时21分 ~ 15时34分]"
         },
         {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            7,
-            6,
-            5
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时09分 ~ 15时34分]"
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -270,6 +282,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时32分]"
+        },
+        {
+          "title": "特朗普邀请记者喝放了5天的牛奶",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%80%E8%AF%B7%E8%AE%B0%E8%80%85%E5%96%9D%E6%94%BE%E4%BA%865%E5%A4%A9%E7%9A%84%E7%89%9B%E5%A5%B6%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
         },
         {
           "title": "特朗普政府执政近一年给世界带来了啥",
@@ -817,6 +840,17 @@
           "time_info": "[00时41分 ~ 04时32分]"
         },
         {
+          "title": "美媒：美国已制定多套方案，或直接针对伊朗最高领导层",
+          "url": "https://news.ifeng.com/c/8pvokQP3xu7",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时34分 ~ 16时42分]"
+        },
+        {
           "title": "伊朗：骚乱事件主要幕后人员落网",
           "url": "https://news.ifeng.com/c/8pv17Vq3RFg",
           "source": "凤凰网",
@@ -844,15 +878,29 @@
           "time_info": "[00时41分 ~ 06时32分]"
         },
         {
-          "title": "美媒：美国已制定多套方案，或直接针对伊朗最高领导层",
-          "url": "https://news.ifeng.com/c/8pvokQP3xu7",
+          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1995060884632987422",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时09分 ~ 16时42分]"
+        },
+        {
+          "title": "伊朗情报部门：骚乱事件主要幕后人员落网",
+          "url": "https://news.ifeng.com/c/8pvx2THKanp",
           "source": "凤凰网",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时34分 ~ 15时34分]"
+          "time_info": "[14时46分 ~ 16时42分]"
         },
         {
           "title": "伊朗高级将领：伊朗处于最高战备状态",
@@ -889,6 +937,19 @@
           "time_info": "[01时34分 ~ 07时26分]"
         },
         {
+          "title": "伊朗对德黑兰飞行情报区空域管控",
+          "url": "https://www.douyin.com/hot/2368070",
+          "source": "抖音",
+          "ranks": [
+            16,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时09分 ~ 16时42分]"
+        },
+        {
           "title": "“星链”在伊朗免费部署，已有约5万台终端，伊方公布缴获设备",
           "url": "https://news.ifeng.com/c/8pv10MDZVXI",
           "source": "凤凰网",
@@ -898,31 +959,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时25分 ~ 12时09分]"
-        },
-        {
-          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
-          "url": "https://www.zhihu.com/question/1995060884632987422",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时09分 ~ 15时34分]"
-        },
-        {
-          "title": "伊朗情报部门：骚乱事件主要幕后人员落网",
-          "url": "https://news.ifeng.com/c/8pvx2THKanp",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时46分 ~ 15时34分]"
         },
         {
           "title": "凤凰直击丨伊朗举行大规模公开葬礼，民众高喊打倒美以口号",
@@ -945,18 +981,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 06时32分]"
-        },
-        {
-          "title": "伊朗对德黑兰飞行情报区空域管控",
-          "url": "https://www.douyin.com/hot/2368070",
-          "source": "抖音",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时09分 ~ 15时34分]"
         },
         {
           "title": "伊朗宣布暂时关闭领空",
@@ -1519,6 +1543,17 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时21分 ~ 16时42分]"
+        },
+        {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
           "url": "https://wallstreetcn.com/articles/3763167",
           "source": "华尔街见闻",
@@ -1542,17 +1577,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时45分 ~ 06时32分]"
-        },
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时21分 ~ 15时34分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
@@ -1815,7 +1839,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时34分"
         },
@@ -1847,8 +1871,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时09分 ~ 15时34分]"
+          "appearance_count": 9,
+          "time_info": "[12时09分 ~ 16时42分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
