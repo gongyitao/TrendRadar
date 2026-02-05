@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T10:46:44.613671+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2026-02-05T12:56:21.359196+08:00",
+  "total_titles_processed": 1011,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时03分 ~ 10时46分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 12时56分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -41,18 +55,20 @@
           "time_info": "[01时03分 ~ 07时36分]"
         },
         {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3764980",
-          "source": "华尔街见闻",
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            4,
+            18,
+            15,
+            9,
+            6,
             3,
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[01时03分 ~ 10时46分]"
+          "time_info": "[01时58分 ~ 12时56分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -67,21 +83,6 @@
           "time_info": "[01时03分 ~ 10时46分]"
         },
         {
-          "title": "详讯丨习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            9,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 10时46分]"
-        },
-        {
           "title": "习近平同特朗普通电话",
           "url": "https://www.toutiao.com/trending/7603003215299149878/",
           "source": "今日头条",
@@ -91,6 +92,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时36分 ~ 10时46分]"
+        },
+        {
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 12时56分]"
         },
         {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
@@ -104,15 +116,15 @@
           "time_info": "[06时38分 ~ 07时36分]"
         },
         {
-          "title": "特朗普：中美元首通话内容详实，气氛积极",
-          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
-          "source": "凤凰网",
+          "title": "降息快了？特朗普直言：若沃什表达过加息意愿 就不会获提名！",
+          "url": "https://www.cls.cn/detail/2281033",
+          "source": "财联社热门",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时46分"
+          "time_info": "12时56分"
         },
         {
           "title": "美国财长贝森特：已有超过100万美国家庭为2025年至2028年出生的儿童注册了“特朗普账户”。",
@@ -341,6 +353,17 @@
           "time_info": "04时45分"
         },
         {
+          "title": "特朗普降息言论难抵金银抛售潮 流动性匮乏放大波动",
+          "url": "https://flash.jin10.com/detail/20260205113340203800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
+        },
+        {
           "title": "美国财长贝森特：美国总统特朗普有权就美联储货币政策发表意见。",
           "url": "https://flash.jin10.com/detail/20260205003021472800",
           "source": "金十数据",
@@ -377,7 +400,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -386,9 +409,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 12时56分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -461,6 +484,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时38分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 12时56分]"
         },
         {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
@@ -557,17 +592,6 @@
           "time_info": "07时36分"
         },
         {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
           "title": "谷歌(GOOG.O)美股盘后跌超6%。",
           "url": "https://flash.jin10.com/detail/20260205050408864800",
           "source": "金十数据",
@@ -588,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         },
         {
           "title": "Alphabet(GOOGL.O)2025年Q4谷歌云收入176.6亿美元。",
@@ -626,7 +661,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
@@ -725,6 +760,17 @@
           "time_info": "[04时45分 ~ 05时42分]"
         },
         {
+          "title": "鲁比奥否认向伊朗让步，透露美方条件",
+          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 12时56分]"
+        },
+        {
           "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
           "url": "https://flash.jin10.com/detail/20260205011321847800",
           "source": "金十数据",
@@ -764,18 +810,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "鲁比奥否认向伊朗让步，透露美方条件",
-          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -789,6 +824,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32533277",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时56分"
         },
         {
           "title": "市场消息：一位伊朗高级消息人士表示，此次谈判结果取决于美国是否改变目前的做法。目前正在就周五谈判的最终安排以及能否直接举行谈判进行磋商。",
@@ -819,7 +865,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -911,8 +957,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 10时46分]"
+          "appearance_count": 3,
+          "time_info": "[07时36分 ~ 12时56分]"
         },
         {
           "title": "Arm(ARM.O)美股盘后跌超10%。",
@@ -1066,7 +1112,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -1077,7 +1123,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         }
@@ -1094,7 +1140,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         },
@@ -1105,7 +1151,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
         }
