@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T19:52:30.536679+08:00",
-  "total_titles_processed": 1447,
+  "generated_at": "2026-02-11T21:40:53.252239+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
@@ -50,8 +50,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 19时52分]"
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 21时40分]"
         },
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时52分]"
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 21时40分]"
         },
         {
           "title": "外交部回应特朗普涉中加合作言论",
@@ -444,6 +444,18 @@
           "time_info": "[03时19分 ~ 04时56分]"
         },
         {
+          "title": "特朗普在爱泼斯坦案文件出现100万次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时40分]"
+        },
+        {
           "title": "特朗普又有大动作：美气候政策大倒退",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E6%9C%89%E5%A4%A7%E5%8A%A8%E4%BD%9C%EF%BC%9A%E7%BE%8E%E6%B0%94%E5%80%99%E6%94%BF%E7%AD%96%E5%A4%A7%E5%80%92%E9%80%80",
           "source": "百度热搜",
@@ -554,17 +566,6 @@
           "time_info": "05时55分"
         },
         {
-          "title": "特朗普在爱泼斯坦案文件出现100万次",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E5%87%BA%E7%8E%B0100%E4%B8%87%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
           "title": "爱泼斯坦文件中特朗普出现超百万次",
           "url": "https://www.toutiao.com/trending/7605393743562149395/",
           "source": "今日头条",
@@ -623,19 +624,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时52分]"
-        },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
           "url": "https://wallstreetcn.com/articles/3765438",
@@ -646,8 +636,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 21时40分]"
+        },
+        {
+          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时17分 ~ 19时52分]"
+          "time_info": "[01时13分 ~ 06时52分]"
         },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -695,8 +696,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时41分 ~ 19时52分]"
+          "appearance_count": 7,
+          "time_info": "[13时41分 ~ 21时40分]"
+        },
+        {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时40分]"
         },
         {
           "title": "美泰（Mattel）美股盘后跌幅扩大至21%。",
@@ -710,15 +722,15 @@
           "time_info": "05时55分"
         },
         {
-          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
-          "url": "https://www.zhihu.com/question/2004662806780338439",
-          "source": "知乎",
+          "title": "【美国非农数据公布后，美股期货短线拉升】纳指期货日内涨0.35%，标普500指数期货涨0.31%，道指期货涨0.24%；美国国债收益率短线拉升，10年期国债收益率上行4bp，现报4.192%；美元指数走高，日内涨0.29%。",
+          "url": "https://wallstreetcn.com/livenews/3053777",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时52分"
+          "time_info": "21时40分"
         },
         {
           "title": "罗杰斯为何清空美股死守金银铜",
@@ -793,6 +805,17 @@
           "time_info": "[05时55分 ~ 06时52分]"
         },
         {
+          "title": "市场聚焦美国非农，美股指期货全线上扬，美元连跌四日，黄金突破5100美元大关，白银站上86美元",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "美股1月日均成交额突破1万亿美元",
           "url": "https://flash.jin10.com/detail/20260211005235441800",
           "source": "金十数据",
@@ -846,12 +869,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "T-Mobile第四季度总净新增用户244万，同比增长20%，市场预期199万。 第四季度每股收益1.88美元，去年同期2.57美元，市场预期2.03美元。 第四季度营收243.3亿美元，同比增长11%，市场预期242亿美元。 第四季度后付费净新增用户238万，同比增长23%，市场预期192万。 T-Mobile美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3053749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗总统：不寻求核武器 愿接受核查",
@@ -860,9 +894,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时40分]"
         },
         {
           "title": "伊朗总统致歉",
@@ -871,9 +905,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时40分]"
         },
         {
           "title": "中方送伊朗歼-20模型传递何种信号",
@@ -988,6 +1022,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "德国外交部长：伊朗核计划和弹道导弹计划必须通过谈判解决。",
+          "url": "https://flash.jin10.com/detail/20260211212250657800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "伊朗外长：相信可以达成优于伊核协议的新协议",
           "url": "https://wallstreetcn.com/livenews/3053481",
           "source": "华尔街见闻-快讯",
@@ -1005,7 +1050,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -1016,7 +1061,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         }
@@ -1037,6 +1082,20 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时13分 ~ 07时49分]"
+        },
+        {
+          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时41分 ~ 21时40分]"
         },
         {
           "title": "零售数据疲软重燃降息预期 金价重回5050美元上方",
@@ -1061,19 +1120,6 @@
           "time_info": "11时17分"
         },
         {
-          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时41分 ~ 19时52分]"
-        },
-        {
           "title": "从避险到标配 摩根大通勾勒金价8000美元蓝图",
           "url": "https://flash.jin10.com/detail/20260211064938299800",
           "source": "金十数据",
@@ -1094,6 +1140,120 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美元指数DXY短线急升50点，现报97.14。",
+          "url": "https://flash.jin10.com/detail/20260211213121974800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "美元指数10日下跌",
+          "url": "https://flash.jin10.com/detail/20260211041812167800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时55分]"
+        },
+        {
+          "title": "周二（2月10日）纽约尾盘，ICE美元指数大致持平，报96.814点，日内交投区间为97.007-96.609点。 彭博美元指数跌0.09%，报1181.94点，日内交投区间为1184.46-1180.25点。",
+          "url": "https://wallstreetcn.com/livenews/3053226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时55分]"
+        },
+        {
+          "title": "非农料出现有史以来最大的年度下修 美元指数预计在数据公布前维持震荡",
+          "url": "https://flash.jin10.com/detail/20260211144052804800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.51%，暂报2652.98点。 MarketVectorTM数字资产100中盘指数跌1.02%，报2734.15点。 MarketVector数字资产100指数跌1.60%，报13869.65点。 Solana目前跌3.66%，狗狗币跌3.11%，XRP跌2.52%。 比特币跌1.89%，暂报69373美元；以太坊跌4.56%，暂报2028.89美元。",
+          "url": "https://wallstreetcn.com/livenews/3053171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时52分 ~ 21时40分]"
+        },
+        {
+          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
+          "url": "https://wallstreetcn.com/articles/3765457",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "DeepSeek更新新模型",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9B%B4%E6%96%B0%E6%96%B0%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
@@ -1148,86 +1308,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数10日下跌",
-          "url": "https://flash.jin10.com/detail/20260211041812167800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时55分]"
-        },
-        {
-          "title": "周二（2月10日）纽约尾盘，ICE美元指数大致持平，报96.814点，日内交投区间为97.007-96.609点。 彭博美元指数跌0.09%，报1181.94点，日内交投区间为1184.46-1180.25点。",
-          "url": "https://wallstreetcn.com/livenews/3053226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 05时55分]"
-        },
-        {
-          "title": "非农料出现有史以来最大的年度下修 美元指数预计在数据公布前维持震荡",
-          "url": "https://flash.jin10.com/detail/20260211144052804800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.51%，暂报2652.98点。 MarketVectorTM数字资产100中盘指数跌1.02%，报2734.15点。 MarketVector数字资产100指数跌1.60%，报13869.65点。 Solana目前跌3.66%，狗狗币跌3.11%，XRP跌2.52%。 比特币跌1.89%，暂报69373美元；以太坊跌4.56%，暂报2028.89美元。",
-          "url": "https://wallstreetcn.com/livenews/3053171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
-          "url": "https://www.zhihu.com/question/2004971546536585165",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "DeepSeek更新新模型",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9B%B4%E6%96%B0%E6%96%B0%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时52分"
         }
       ]
     },
