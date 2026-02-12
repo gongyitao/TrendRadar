@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T02:01:21.016438+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-02-13T03:18:10.055096+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 34,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时18分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时18分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时18分]"
         },
         {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
@@ -48,8 +48,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时18分]"
+        },
+        {
+          "title": "美国总统特朗普：（1月非农）就业报告在特定方面是惊人的。",
+          "url": "https://wallstreetcn.com/livenews/3054698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "以色列总理办公室：内塔尼亚胡将远程参加美国以色列公共事务委员会（AIPAC）年会，因此下周不会飞往华盛顿。内塔尼亚胡也不会参加特朗普组织的和平委员会会议。",
@@ -58,7 +69,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -74,15 +85,59 @@
           "time_info": "00时03分"
         },
         {
+          "title": "特朗普宣布美国环境保护署“温室气体危害认定”正式撤销",
+          "url": "https://wallstreetcn.com/livenews/3054696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美国总统特朗普：尚未与卢特尼克讨论此事。",
+          "url": "https://flash.jin10.com/detail/20260213031118415800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
           "title": "美国司法部反垄断事务主管Abigail Slater离职，此前总统特朗普的白宫要求其辞职、否则将把她免职。",
           "url": "https://wallstreetcn.com/livenews/3054656",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
+        },
+        {
+          "title": "美国总统特朗普：并不知晓美国商务部长卢特尼克访问爱泼斯坦岛。",
+          "url": "https://flash.jin10.com/detail/20260213031103498800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美国总统特朗普：必须与伊朗达成一份协议。 “只要我喜欢”，就会与伊朗对话。 如果伊朗不达成协议，对他们来说将是非常痛苦的。 与伊朗的协议最终取决于我。",
+          "url": "https://wallstreetcn.com/livenews/3054693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -90,11 +145,145 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            26
+            26,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时18分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
+          "ranks": [
+            27,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 03时18分]"
+        },
+        {
+          "title": "美国总统特朗普：就业报告在某些方面非常出色。",
+          "url": "https://flash.jin10.com/detail/20260213031034911800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美国总统特朗普：我正努力让美国不建设风电场。",
+          "url": "https://wallstreetcn.com/livenews/3054688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "特朗普宣布美国环境保护署“温室气体危害认定”正式撤销",
+          "url": "https://flash.jin10.com/detail/20260213030830222800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美国总统特朗普：如果无法与伊朗达成协议，将进入第二阶段谈判。第二阶段对伊朗来说将非常艰难。",
+          "url": "https://flash.jin10.com/detail/20260213030657589800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美国总统特朗普宣扬股市上涨。 特朗普称，环境保护署（EPA）的行动将有助于降低汽车价格。",
+          "url": "https://wallstreetcn.com/livenews/3054685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗不达成协议，将会遭受非常严重的创伤。与伊朗的谈判最终取决于我。",
+          "url": "https://flash.jin10.com/detail/20260213030643145800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美国总统特朗普：以色列总统应为不赦免内塔尼亚胡而感到羞耻。",
+          "url": "https://flash.jin10.com/detail/20260213030619116800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美国总统特朗普将于下周宣布加沙重建计划。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3054682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美国总统特朗普：只要我想谈，我就和他们谈。",
+          "url": "https://flash.jin10.com/detail/20260213030534579800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "美国总统特朗普：我猜未来一个月内或许能达成协议。",
+          "url": "https://flash.jin10.com/detail/20260213030415676800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "特朗普：必须与伊朗达成协议",
+          "url": "https://flash.jin10.com/detail/20260213030327944800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "以色列总理内塔尼亚胡动身离开白宫之前宣称：美国总统特朗普可能会与伊朗达成不错的协议。（Axios）",
@@ -103,7 +292,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -114,7 +303,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -130,6 +319,17 @@
           "time_info": "00时03分"
         },
         {
+          "title": "美国总统特朗普：我们基本上已经叫停了美国所有的风力发电机项目。",
+          "url": "https://flash.jin10.com/detail/20260213025752447800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
           "title": "煤炭概念股上涨，特朗普政府支持这种化石燃料，并提供资金支持。 Peabody Energy涨2.8%，Core Natural Resources涨3.1%，Hallador Energy涨2.9%，Alliance Resources涨2.5%，Alpha Metallurgical Resources涨3%。",
           "url": "https://wallstreetcn.com/livenews/3054591",
           "source": "华尔街见闻-快讯",
@@ -139,6 +339,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
+        },
+        {
+          "title": "美国总统特朗普：Lee Zeldin（美国环保署署长）也正在着手解决与农业设备相关的“糟糕局面”。",
+          "url": "https://flash.jin10.com/detail/20260213025649146800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
         },
         {
           "title": "监狱概念股GEO惩教集团（GEO Group Inc.，GEO）跌14%，完全回吐特朗普在2024年11月赢得第二任期以来的所有涨幅。 白宫边境事务主管Homan宣称，特朗普政府将结束再明尼苏达的移民行动。",
@@ -158,20 +369,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://www.douyin.com/hot/2398243",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时03分"
+          "time_info": "02时01分"
         },
         {
           "title": "据知情人士透露，派拉蒙天舞（Paramount SkyDance）的CEO David Ellison上周在白宫秘密会见了美国总统特朗普。（CNN）",
@@ -180,7 +380,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         }
@@ -197,9 +397,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 03时18分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -210,8 +410,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时18分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -220,7 +420,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -231,7 +431,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -242,7 +442,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -281,7 +481,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -292,7 +492,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -303,7 +503,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         },
@@ -314,7 +514,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         }
@@ -330,11 +530,12 @@
           "source": "微博",
           "ranks": [
             2,
-            7
+            7,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时18分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -345,8 +546,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时18分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -354,11 +555,40 @@
           "source": "bilibili 热搜",
           "ranks": [
             29,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI发布首个搭载英伟达对手Cerebras芯片的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3054665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时18分"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
+          "url": "https://wallstreetcn.com/livenews/3054632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时01分"
         }
       ]
     },
@@ -375,8 +605,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时18分]"
         },
         {
           "title": "分析师：金价失守5000美元引发连锁抛售",
@@ -385,7 +615,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时01分"
         }
@@ -404,8 +634,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 02时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 03时18分]"
         },
         {
           "title": "美国CPI前夕，美股指集体高开，煤炭概念股走高，思科跌超7%，美债企稳",
@@ -417,23 +647,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
-          "url": "https://wallstreetcn.com/livenews/3054632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时01分"
         }
       ]
     }
