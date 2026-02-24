@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T07:24:00.802587+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-02-25T07:46:31.345970+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时40分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时40分 ~ 07时46分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -47,11 +47,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时40分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时40分 ~ 07时46分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -62,8 +63,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时40分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时40分 ~ 07时46分]"
         },
         {
           "title": "中方回应特朗普3月31日将访问中国",
@@ -75,8 +76,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时59分 ~ 07时24分]"
+          "appearance_count": 8,
+          "time_info": "[03时59分 ~ 07时46分]"
         },
         {
           "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
@@ -101,15 +102,15 @@
           "time_info": "04时50分"
         },
         {
-          "title": "美国众议长称，最高法院关税裁决对特朗普是“一记重击”",
-          "url": "https://wallstreetcn.com/livenews/3058387",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普，走上“关税悬崖”",
+          "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
+          "source": "凤凰网",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时24分"
+          "time_info": "07时46分"
         },
         {
           "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
@@ -195,6 +196,18 @@
           "time_info": "[01时40分 ~ 02时03分]"
         },
         {
+          "title": "美国众议长称，最高法院关税裁决对特朗普是“一记重击”",
+          "url": "https://wallstreetcn.com/livenews/3058387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时46分]"
+        },
+        {
           "title": "乌克兰驻美大使斯特凡尼希娜：美国的制裁法案总体而言是一项非常好的法案，若该法案获国会通过，预计美国总统特朗普会予以签署。",
           "url": "https://flash.jin10.com/detail/20260225011033725800",
           "source": "金十数据",
@@ -243,6 +256,39 @@
           "time_info": "[01时40分 ~ 02时03分]"
         },
         {
+          "title": "市场消息：特朗普将于周三举行会议，讨论政府振兴弗吉尼亚州杜勒斯机场的计划。",
+          "url": "https://flash.jin10.com/detail/20260225062520187800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时46分]"
+        },
+        {
+          "title": "据CNBC：特朗普将通过预算协调程序公布减税计划。",
+          "url": "https://flash.jin10.com/detail/20260225052942727800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时46分]"
+        },
+        {
+          "title": "周三亚太盘初，美国三大股指期货微幅下跌，罗素2000股指期货跌0.15%。 美国总统特朗普即将发表国情咨文演讲。",
+          "url": "https://wallstreetcn.com/livenews/3058394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
           "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
           "url": "https://flash.jin10.com/detail/20260225045852872800",
           "source": "金十数据",
@@ -274,17 +320,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
-        },
-        {
-          "title": "市场消息：特朗普将于周三举行会议，讨论政府振兴弗吉尼亚州杜勒斯机场的计划。",
-          "url": "https://flash.jin10.com/detail/20260225062520187800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
         },
         {
           "title": "报道：特朗普将呼吁出台新形式的减税措施",
@@ -329,17 +364,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时00分"
-        },
-        {
-          "title": "据CNBC：特朗普将通过预算协调程序公布减税计划。",
-          "url": "https://flash.jin10.com/detail/20260225052942727800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
         }
       ]
     },
@@ -387,11 +411,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时40分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时40分 ~ 07时46分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股收盘）",
@@ -403,6 +428,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时23分 ~ 07时46分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）热门中概股行情一览（美股收盘）",
@@ -462,15 +499,16 @@
           "time_info": "[04时50分 ~ 05时44分]"
         },
         {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
+          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
+          "url": "https://wallstreetcn.com/livenews/3058381",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时23分 ~ 07时24分]"
+          "time_info": "[07时24分 ~ 07时46分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -518,17 +556,6 @@
           "time_info": "05时44分"
         },
         {
-          "title": "惠普（HPQ）美股盘后跌幅扩大至将近7%，存储芯片打压其业绩展望。",
-          "url": "https://wallstreetcn.com/livenews/3058381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
           "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3058348",
           "source": "华尔街见闻-快讯",
@@ -554,7 +581,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "在伊朗中国人：华联会已准备撤离方案",
@@ -566,8 +593,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时40分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时40分 ~ 07时46分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -578,8 +605,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时40分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时40分 ~ 07时46分]"
         },
         {
           "title": "伊朗一军用直升机坠毁",
@@ -592,8 +619,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时40分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时40分 ~ 07时46分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -603,8 +630,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时40分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[01时40分 ~ 07时46分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -617,6 +644,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时40分 ~ 05时44分]"
+        },
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%AD%E5%9B%BD%E4%BA%BA%EF%BC%9A%E5%8D%8E%E8%81%94%E4%BC%9A%E5%B7%B2%E5%87%86%E5%A4%87%E6%92%A4%E7%A6%BB%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         },
         {
           "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
@@ -758,7 +796,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
@@ -778,9 +816,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "OpenAI赢得诉讼：法官驳回xAI关于员工及代码被窃的指控",
+          "url": "https://wallstreetcn.com/livenews/3058374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         }
       ]
     },
@@ -807,7 +856,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
