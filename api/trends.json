@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T13:27:11.550429+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-05-25T18:25:21.187610+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
         {
           "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
@@ -89,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "伊朗称处决伊斯法罕省骚乱“武装领导人之一”",
+          "url": "https://wallstreetcn.com/livenews/3108816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "伊朗官员：霍尔木兹海峡的管理不会恢复到战前状态",
@@ -272,6 +283,17 @@
           "time_info": "[00时08分 ~ 02时04分]"
         },
         {
+          "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
+          "url": "https://news.ifeng.com/c/8tPl7KTsmFN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "据美国哥伦比亚广播公司（CBS）援引美国官员：伊朗当前似乎比军事行动前更愿意做出让步。",
           "url": "https://flash.jin10.com/detail/20260524234922098800",
           "source": "金十数据",
@@ -292,6 +314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "伊朗总统说不会屈服于外部压力和“过分要求”",
+          "url": "https://wallstreetcn.com/livenews/3108813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "伊朗称解冻资金与转移浓缩铀无关，谈判关键分歧犹存",
@@ -443,9 +476,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
+        },
+        {
+          "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
+          "url": "https://www.zhihu.com/question/2042201889626907656",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "美以袭击伊朗进入第 86 天，当前局势如何？哪些信息值得关注？",
@@ -470,6 +514,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "伊朗称处决伊斯法罕省骚乱“武装领导人之一”",
+          "url": "https://flash.jin10.com/detail/20260525175454934800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "内塔尼亚胡：以色列与美国在伊朗核问题上保持一致",
           "url": "https://flash.jin10.com/detail/20260524231628507800",
           "source": "金十数据",
@@ -479,6 +534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "内塔尼亚胡：美以一致认为美伊协议须消除伊朗“核威胁”",
+          "url": "https://wallstreetcn.com/livenews/3108790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         },
         {
           "title": "伊朗最高领袖顾问表示，如果再次遭遇攻击，伊朗将打破美国海军的封锁，并退出《不扩散核武器条约》。",
@@ -558,6 +624,17 @@
           "time_info": "00时08分"
         },
         {
+          "title": "伊朗称将部署新型防空系统",
+          "url": "https://wallstreetcn.com/livenews/3108782",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "据Axios援引一位美国官员的话称：对我们来说有一些重要的表述，对伊朗来说也有一些重要的措辞。",
           "url": "https://flash.jin10.com/detail/20260524230354122800",
           "source": "金十数据",
@@ -589,12 +666,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "伊朗称对通过霍尔木兹海峡船只收“航行服务费”",
+          "url": "https://wallstreetcn.com/livenews/3108780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -644,6 +732,17 @@
           "time_info": "[00时08分 ~ 08时09分]"
         },
         {
+          "title": "美国总统特朗普：（关于伊朗问题）与伊朗达成的协议要么是伟大且有意义的，要么就不会达成协议。",
+          "url": "https://flash.jin10.com/detail/20260525181117122800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "特朗普：美伊协议“尚未完全谈妥”",
           "url": "https://wallstreetcn.com/livenews/3108545",
           "source": "华尔街见闻-快讯",
@@ -671,6 +770,17 @@
           "time_info": "[02时04分 ~ 08时09分]"
         },
         {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
           "url": "https://wallstreetcn.com/livenews/3108525",
           "source": "华尔街见闻-快讯",
@@ -682,6 +792,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 06时02分]"
+        },
+        {
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 18时25分]"
         },
         {
           "title": "特朗普：美伊协议“尚未完全谈妥”",
@@ -729,8 +851,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 18时25分]"
         },
         {
           "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
@@ -753,17 +875,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时08分 ~ 08时09分]"
-        },
-        {
-          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
-          "url": "https://www.cls.cn/detail/2380246",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "以媒：特朗普向以方保证与伊朗协议将解除其核计划",
@@ -799,6 +910,17 @@
           "time_info": "02时04分"
         },
         {
+          "title": "“白宫股神”推了“最火的存储”！特朗普公开大赞美光",
+          "url": "https://wallstreetcn.com/articles/3773000",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时25分"
+        },
+        {
           "title": "特朗普被自己人“围攻”：共和党强硬派怒批伊朗协议“让步太多”",
           "url": "https://flash.jin10.com/detail/20260525074701003800",
           "source": "金十数据",
@@ -816,7 +938,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -902,11 +1024,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 13时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 18时25分]"
         }
       ]
     },
@@ -982,7 +1105,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         }
