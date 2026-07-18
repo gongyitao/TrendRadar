@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T11:16:12.177850+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-07-18T14:12:22.694222+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 58,
+      "match_count": 65,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时01分 ~ 11时16分]"
+          "appearance_count": 5,
+          "time_info": "[06时01分 ~ 14时12分]"
         },
         {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
@@ -55,28 +55,6 @@
           "time_info": "[06时01分 ~ 07时02分]"
         },
         {
-          "title": "美国官员：伊朗向沙特美军基地发射导弹",
-          "url": "https://flash.jin10.com/detail/20260718110048188800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "美国官员：伊朗向沙特美军基地发射导弹",
-          "url": "https://wallstreetcn.com/livenews/3135958",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
           "title": "据伊朗努尔新闻(Nour News)：当地消息人士称，伊朗阿巴斯港传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260718020238771800",
           "source": "金十数据",
@@ -110,6 +88,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：科威特第五次响起警报。",
+          "url": "https://flash.jin10.com/detail/20260718132444025800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗霍尔木兹甘省电力公司表示，美军昨夜袭击造成的电网受损已完成抢修，目前所有受影响区域的电网运行状况均已稳定，应急力量仍保持待命。",
           "url": "https://flash.jin10.com/detail/20260718015900634800",
           "source": "金十数据",
@@ -127,9 +116,44 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "科威特军方表示，科威特目前正在拦截从伊朗发射的导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260718131448247800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
+          "title": "美国官员：伊朗向沙特美军基地发射导弹",
+          "url": "https://flash.jin10.com/detail/20260718110048188800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 14时12分]"
+        },
+        {
+          "title": "美国官员：伊朗向沙特美军基地发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3135958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 14时12分]"
         },
         {
           "title": "伊朗谴责美袭击民用基础设施犯下战争罪",
@@ -253,6 +277,18 @@
           "time_info": "[06时01分 ~ 07时02分]"
         },
         {
+          "title": "美军称结束第七晚对伊朗打击行动",
+          "url": "https://wallstreetcn.com/livenews/3135947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 14时12分]"
+        },
+        {
           "title": "伊朗最高领袖军事顾问：美伊谅解备忘录已名存实亡",
           "url": "https://flash.jin10.com/detail/20260718043137914800",
           "source": "金十数据",
@@ -275,6 +311,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时02分]"
+        },
+        {
+          "title": "伊朗称袭击位于科威特和约旦的美军基地",
+          "url": "https://wallstreetcn.com/livenews/3135944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时16分 ~ 14时12分]"
         },
         {
           "title": "伊朗南部锡里克地区传出3次爆炸声",
@@ -341,9 +389,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，针对美国在谢赫伊萨空军基地的战斗机设施进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718130947273800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国人占领伊朗境内任何地点，我们可能会进入进攻性战争阶段，而不再只是防御性战争。",
@@ -401,17 +460,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "美军称结束第七晚对伊朗打击行动",
-          "url": "https://wallstreetcn.com/livenews/3135947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
           "title": "卡塔尔外交部：卡塔尔以最强烈言辞谴责伊朗对其领土及若干兄弟国家领土的新一轮侵略。",
           "url": "https://flash.jin10.com/detail/20260717234153130800",
           "source": "金十数据",
@@ -434,6 +482,17 @@
           "time_info": "02时12分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，若领土被用于对伊朗的攻击，驻有美国军队的国家应预期“相应的回应”。",
+          "url": "https://flash.jin10.com/detail/20260718122202420800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：知情人士称，伊朗革命卫队在霍尔木兹海峡袭击了一艘船只。",
           "url": "https://flash.jin10.com/detail/20260718013413915800",
           "source": "金十数据",
@@ -443,6 +502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，在科威特针对美国军方设施进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718122117595800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "伊朗最高领袖顾问：若美军继续行动，伊朗或转入全面进攻阶段",
@@ -462,18 +532,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "伊朗称袭击位于科威特和约旦的美军基地",
-          "url": "https://wallstreetcn.com/livenews/3135944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -484,7 +543,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -528,9 +587,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "伊朗亮第二把锁，油价为何只涨了一轮？",
+          "url": "https://flash.jin10.com/detail/20260718120203545800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "美国军方：美国军方结束了对伊朗连续第七夜的打击。",
@@ -539,7 +609,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -550,7 +620,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -572,9 +642,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "伊朗国家电视台援引伊朗军方的话称，伊朗在巴林针对美国军方资产和燃料罐进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718112529599800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "伊朗打击位于科威特和叙利亚的美军目标",
@@ -594,7 +675,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -605,7 +686,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -616,7 +697,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -627,7 +708,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -638,7 +719,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -668,7 +749,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -777,11 +858,12 @@
           "url": "https://news.ifeng.com/c/8ur69Rbmt2A",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 14时12分]"
         },
         {
           "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
@@ -806,6 +888,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         },
         {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
@@ -863,6 +956,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "特朗普：因凡蒂诺建议中美合办世界杯",
+          "url": "https://www.douyin.com/hot/2575839",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "美国总统特朗普：已邀请Darline Graham参加8月11日举行的共和党特别参议员初选。",
           "url": "https://flash.jin10.com/detail/20260718031740689800",
           "source": "金十数据",
@@ -885,21 +989,43 @@
           "time_info": "02时12分"
         },
         {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "特朗普的社交帖文被包装成付费产品，华尔街机构不付费就将“慢人一步”",
           "url": "https://flash.jin10.com/detail/20260718092759635800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
+        },
+        {
+          "title": "特朗普称应再次选择美国办世界杯",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BA%94%E5%86%8D%E6%AC%A1%E9%80%89%E6%8B%A9%E7%BE%8E%E5%9B%BD%E5%8A%9E%E4%B8%96%E7%95%8C%E6%9D%AF%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -932,19 +1058,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 11时16分]"
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 14时12分]"
         },
         {
           "title": "美股三大指数全线下挫",
           "url": "https://www.douyin.com/hot/2575548",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 14时12分]"
         },
         {
           "title": "美股半导体指数跌入熊市",
@@ -1017,6 +1144,17 @@
           "time_info": "[06时01分 ~ 07时02分]"
         },
         {
+          "title": "美股芯片股，距熊市仅一步之遥",
+          "url": "https://wallstreetcn.com/articles/3777197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时12分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
           "url": "https://wallstreetcn.com/livenews/3135852",
           "source": "华尔街见闻-快讯",
@@ -1079,11 +1217,12 @@
           "url": "https://wallstreetcn.com/articles/3777230",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 14时12分]"
         }
       ]
     },
@@ -1131,11 +1270,12 @@
           "url": "https://www.cls.cn/detail/2430073",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 14时12分]"
         }
       ]
     },
